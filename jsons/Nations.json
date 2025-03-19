@@ -1,26 +1,26 @@
 [
 	{
 		"name": "Confederación Muisca",
-		"leaderName": "Cacique muisca",
+		"leaderName": "Saquesazipa Cacique muisca",
 		"adjective": ["Indigena"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "Soy un cacique muisca, guardián de los secretos de nuestra tierra sagrada, de los cerros verdes y los lagos que brillan bajo la mirada de Chie, el Sol, y Chía, la Luna",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart2": "--------------------",
 		
-		"declaringWar": "Soy el cacique de estas tierras sagradas, guardián de los secretos de los cerros y los lagos que brillan bajo la mirada de Chie y Chía. Hoy, con el corazón pesado pero firme, alzo mi voz como el trueno que retumba en las montañas, para declarar que nuestra paz ha sido quebrantada",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "No buscamos la guerra, pero no tememos alzar nuestras macanas y flechas para proteger a nuestro pueblo, nuestra tierra y nuestra cultura. Que los dioses sean testigos de esta lucha, y que el destino decida el camino que habremos de seguir",
+		"attacked": "Hoy no celebramos una victoria, pero tampoco nos rendimos. Somos muiscas, hijos de la tierra, y nuestra fuerza reside en nuestra capacidad de levantarnos, aprender y seguir adelante",
+		"defeated": "Hemos luchado con honor, pero el destino no ha estado de nuestro lado. Nuestros enemigos han prevalecido, y nuestras fuerzas han sido mermadas",
+		"introduction": "Soy el cacique de estas tierras sagradas, guardián de los secretos de los cerros y los lagos que brillan bajo la mirada de Chie y Chía. Hoy, con el corazón pesado pero firme, alzo mi voz como el trueno que retumba en las montañas, para declarar que nuestra paz ha sido quebrantada",
 		
 		"neutralHello": "Que el maíz, nuestro sustento, nunca falte en tu hogar, y que el fuego sagrado de Zuhé, el abuelo Sol, ilumine tus pensamientos y acciones?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralLetsHearIt": ["Necesito una mejor explicación","¿que me dices?","No entiendo"],
+		"neutralNo": ["Esto es un insulto.","No!","Me rehuso."],
+		"neutralYes": ["Muy bien.","Porsupuesto, Si","Esto es muy bueno"],
 
 		"hateHello": "Aquellos que han profanado nuestros templos, pisoteado nuestras cosechas y deshonrado a nuestros ancestros",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateLetsHearIt": ["Escuchame!","Dimelo","Que"],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
@@ -29,7 +29,9 @@
 
 		"outerColor": [34928,227, 73, 40,11],
 		"innerColor": [34928,227, 73, 40,11],
-		"unique": "MANIFEST_DESTINY",
+		"favoredReligion": "Christianity",
+		"unique": "["[+1 Faith] [in all cities] <with [1] to [2] neighboring [{unimproved} {Forest}] tiles>",
+			"[+2 Faith] [in all cities] <with [3] to [6] neighboring [{unimproved} {Forest}] tiles>"],
 		"cities": ["Bacatá","Ubaque","Choachí","Chipaque","Cáquezad","Usme","Ubaté","Cucunubá","Simijaca",
 			"Susa","Subachoque","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
