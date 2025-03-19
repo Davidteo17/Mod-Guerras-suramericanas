@@ -1,7 +1,7 @@
 [
 	[
-    { //Argentina's
-		"name": "Tango Theatre",
+    { //Confederación Muisca's
+		"name": "Catedral Sagrado Corazón de Jesús",
 		"replaces": "Opera House",
 		"requiredTech": "Acoustics",
 		"requiredBuilding": "Amphitheater",
@@ -9,15 +9,15 @@
 		"happiness": 1,
 		"culture": 5,
 		"specialistSlots": {"Artist": 3},
-		"uniqueTo": "Argentina",
+		"uniqueTo": "Confederación Muisca",
 		"civilopediaText": [
 			{
-				"text": "The most iconic music from the platine nation, this romantic and dramatic dances, played mainly by the accordion or piano. Birthed in the Golden Age, its characteristic moves make it the emblem of Argentina."
+				"text": "Templo catedralicio de culto católico consagrado al Sagrado Corazón de Jesús y a san Francisco."
 			}
 		]
 	},
-	{ //Bolivia's
-		"name": "Folkloric Comparse",
+	{ //Confederación Muisca's
+		"name": "Pukara usurpado",
 		"replaces": "Courthouse",
 		"requiredTech": "Mathematics",
 		"hurryCostModifier": 50,
