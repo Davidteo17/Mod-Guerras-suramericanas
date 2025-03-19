@@ -31,7 +31,7 @@
 		"innerColor": [34928,227, 73, 40,11],
 		"favoredReligion": "Christianity",
 		"unique": "[+1 Faith] [in all cities] <with [1] to [2] neighboring [{unimproved} {Forest}] tiles>",
-			"[+2 Faith] [in all cities] <with [3] to [6] neighboring [{unimproved} {Forest}] tiles>"],
+			"[+2 Faith] [in all cities] <with [3] to [6] neighboring [{unimproved} {Forest}] tiles>]",
 		"cities": ["Bacatá","Ubaque","Choachí","Chipaque","Cáquezad","Usme","Ubaté","Cucunubá","Simijaca",
 			"Susa","Subachoque","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
