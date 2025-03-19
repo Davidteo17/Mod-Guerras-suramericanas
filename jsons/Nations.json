@@ -27,8 +27,8 @@
 		"afterPeace": "Hemos caminado por senderos de conflicto, donde la sangre ha manchado la tierra y el dolor ha nublado nuestros espíritus. Pero hoy, bajo la mirada de Chiminigagua, el creador de todo lo que existe, declaro que es tiempo de sembrar paz donde hubo discordia",
 		"tradeRequest": "En nombre de la Confederación Muisca, declaro que nuestras tierras están abiertas al trueque y al intercambio, como lo han estado desde tiempos inmemoriales",
 
-		"outerColor": [34928,227, 73, 40,11],
-		"innerColor": [34928,227, 73, 40,11],
+		"outerColor": [34928,227,73,40,11],
+		"innerColor": [34928,227,73,40,11],
 		"favoredReligion": "Christianity",
 		"unique": "[+1 Faith] [in all cities] <with [1] to [2] neighboring [{unimproved} {Forest}] tiles>",
 			"[+2 Faith] [in all cities] <with [3] to [6] neighboring [{unimproved} {Forest}] tiles>]",
