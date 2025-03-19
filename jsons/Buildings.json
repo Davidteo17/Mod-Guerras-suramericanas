@@ -1,6 +1,6 @@
 [
 	[
-    { //Confederación Muisca's
+    { //Confederación Muisca
 		"name": "Catedral Sagrado Corazón de Jesús",
 		"replaces": "Opera House",
 		"requiredTech": "Acoustics",
@@ -16,7 +16,7 @@
 			}
 		]
 	},
-	{ //Confederación Muisca's
+	{ //CoConfederación Muisca
 		"name": "Pukara usurpado",
 		"replaces": "Courthouse",
 		"requiredTech": "Mathematics",
@@ -33,7 +33,7 @@
 			}
 		]
 	},
-	{ //Brasil's
+	{ //Confederación Muisca
 		"name": "Sambadrome",
 		"replaces": "Theatre",
 		"requiredBuilding": "Colosseum",
@@ -48,7 +48,7 @@
 			}
 		]
 	},
-	{ //Chile's
+	{ //Confederación Muisca
 		"name": "Saltpeter Office",
 		"replaces": "Windmill",
 		"requiredTech": "Economics",
@@ -65,7 +65,7 @@
 			}
 		]
 	},
-	{ //Colombia's
+	{ //Confederación Muisca
 		"name": "Coffee Axis",
 		"replaces": "Windmill",
 		"requiredTech": "Economics",
@@ -82,7 +82,7 @@
 			}
 		]
     },
-    { //Costa Rica's
+    { //Confederación Muisca
         "name": "Ecotouristic Hotel",
 		"replaces": "Stock Exchange",
 		"hurryCostModifier": 15,
@@ -99,7 +99,7 @@
 			}
 		]
 	},
-	{ //Cuba's
+	{ //Confederación Muisca
 		"name": "Pharmaceutical Clinic",
 		"replaces": "Hospital",
 		"uniqueTo": "Cuba",
@@ -117,7 +117,7 @@
 	},
 	{
 		"name": "Trade unions",
-		"uniqueTo": "Cuba",
+		"uniqueTo": "Confederación Muisca",
 		"hurryCostModifier": -100,
 		"cost": 1,
 		"requiredBuilding": "Factory",
@@ -126,7 +126,7 @@
 	},
 	{
 		"name": "Free education",
-		"uniqueTo": "Cuba",
+		"uniqueTo": "Confederación Muisca",
 		"hurryCostModifier": -100,
 		"cost": 1,
 		"requiredBuilding": "Public School",
@@ -135,7 +135,7 @@
 	},
 	{
 		"name": "Free healthcare",
-		"uniqueTo": "Cuba",
+		"uniqueTo": "Confederación Muisca",
 		"hurryCostModifier": -100,
 		"cost": 1,
 		"requiredBuilding": "Hospital",
@@ -148,7 +148,7 @@
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"culture": 2,
-		"uniqueTo": "Ecuador",
+		"uniqueTo": "Confederación Muisca",
 		"uniques": ["[+1 Culture] from [Hill] tiles [in this city] <with [1] to [2] neighboring [City center] tiles>",
 			    "[+1 Science] from [Hill] tiles [in this city] <with [1] to [2] neighboring [City center] tiles> <with [1] to [6] neighboring [Mountain] tiles> <after discovering [Flight]>",
 			    "[+2 Culture] <after discovering [Dynamite]>",
@@ -163,7 +163,7 @@
 		"name": "Public Veterinary",
 		"requiredTech": "Fertilizer",
 		"maintenance": 2,
-		"uniqueTo": "El Salvador",
+		"uniqueTo": "Confederación Muisca",
 		"uniques": ["[+1 Food, +1 Culture] from [Pasture] tiles [in this city]", "Cost increases by [50] per owned city"],
 		"civilopediaText": [
 			{
@@ -179,7 +179,7 @@
 		"requiredTech": "Pottery",
 		"food": 2,
 		"gold": 1,
-		"uniqueTo": "Haiti",
+		"uniqueTo": "Confederación Muisca",
 		"uniques": ["[+1 Food] from [Plantation] tiles [in this city]",
 					"Provides [1] [Vetiver Oil] <after discovering [Astronomy]>"],
 		"civilopediaText": [
@@ -195,7 +195,7 @@
 		"production": 1,
 		"specialistSlots": {"Merchant": 1},
 		"requiredTech": "Economics",
-		"uniqueTo": "Honduras",
+		"uniqueTo": "Confederación Muisca",
 		"uniques": ["[25]% Food is carried over after population increases [in this city]","[+1 Production, +1 Food] from [Plantation] tiles [in this city]"],
 		"civilopediaText": [
 			{
@@ -206,14 +206,14 @@
 	{ //Mexico's
 		"name": "Chapultepec Castle",
 		"isNationalWonder": true,
-		"requiredTech": "Architecture",
+		"requiredTech": "Steam Power",
 		"cost": 145,
 		"hurryCostModifier": 30,
 		"maintenance": 2,
 		"greatPersonPoints": {"Great Artist": 1},
 		"cityStrength": 6,
 		"cityHealth": 30,
-		"uniqueTo": "Mexico",
+		"uniqueTo": "Confederación Muisca",
 		"uniques": ["[+2 Culture]","New [Military] units start with [10] Experience [in this city]",
 				"Provides a [Castle] in your first [4] cities for free"],
 		"civilopediaText": [
@@ -227,7 +227,7 @@
 		"isWonder": true,
 		"requiredTech": "Steam Power",
 		"cost": 1200,
-		"uniqueTo": "Panama",
+		"uniqueTo": "Confederación Muisca",
 		"uniques": ["[+1 Science] from each Trade Route","[+1 Production, +1 Science, +4 Gold] from every [Panama Canal]",
 			"[+1 Production, +1 Gold, +1 Food] from [Water] tiles [in all cities] <in cities with a [Harbor]>",
 			"Creates a [Panama Canal] improvement on a specific tile",],
@@ -247,7 +247,7 @@
 		"maintenance": 1,
 		"cityHealth": 25,
 		"cityStrength": 18,
-		"uniqueTo": "Paraguay",
+		"uniqueTo": "Confederación Muisca",
 		"uniques": [
 				"[+1 Culture] <after discovering [Combined Arms]>",
 				"Destroyed when the city is captured"],
@@ -267,7 +267,7 @@
 		"culture": 1,
 		"percentStatBonus": {"food": 5},
 		"specialistSlots": {"Engineer": 1},
-		"uniqueTo": "Paraguay",
+		"uniqueTo": "Confederación Muisca",
 		"uniques": ["[+1 Culture] from [River] tiles [in this city]","[+10]% Production when constructing [All] buildings [in this city]"],
 		"civilopediaText": [
 			{
@@ -285,7 +285,7 @@
 		"culture": 3,
 		"gold": 1,
 		"percentStatBonus": {"culture": 25},
-		"uniqueTo": "Peru",
+		"uniqueTo": "Confederación Muisca,
 		"civilopediaText": [
 			{
 				"text": "The globally famous Peruvian cuisine, dating back to Incan times, is the shiny jewel of Quechua dishes. Featuring the Cuy and the Ceviche, Peruvian food is to admire."
@@ -296,7 +296,7 @@
 	{
 		"name": "Holodeck",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Confederación Muisca",
 		"cost": 480,
 		"happiness": 12,
 		"culture": 12,
@@ -309,7 +309,7 @@
 	{
 		"name": "Breeders",
 		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Confederación Muisca",
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
