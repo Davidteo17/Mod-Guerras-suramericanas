@@ -11,7 +11,7 @@
 		"uniques": "[+1 Production, +1 Culture, +3 Gold]",
     },
 		"name": "Catedral Santuario nuestra señora de las lajas",
-	        "uniqueTo": "Confederación Muisca","Gran Nariño",
+	        "uniqueTo": "Gran Nariño", "Confederación Muisca",
 		"replaces": "Opera House",
 		"requiredTech": "Acoustics",
 		"requiredBuilding": "Amphitheater",
