@@ -1,5 +1,4 @@
 [
-	[
 	    {
 		"name": "Orfebreria Muisca",
 		"replaces": "Forge",
@@ -9,7 +8,8 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Iron Working",
 		"uniques": "[+1 Production, +1 Culture, +3 Gold]",
-    },
+	    },
+	{
 		"name": "Catedral Santuario nuestra señora de las lajas",
 	        "uniqueTo": "Gran Nariño","Confederación Muisca",
 		"replaces": "Opera House",
