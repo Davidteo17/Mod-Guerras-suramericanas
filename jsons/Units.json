@@ -14,7 +14,7 @@
 	},
 	{
 		"name": "Hondero",
-		"uniqueTo": ""Confederación Muisca",
+		"uniqueTo": "Confederación Muisca",
 		"replaces": "Archer",
 		"movement": 2,
 		"strength": 4,
