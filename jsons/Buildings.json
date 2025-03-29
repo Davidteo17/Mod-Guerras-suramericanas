@@ -54,7 +54,7 @@
 	},
 	{
 		"name": "Monumento a Los Heroes",
-		"uniqueTo": ["Gran Nariño","Confederación Muisca"],
+		"uniqueTo": ["Gran Nariño","Confederación Muisca","Gobi-Altai"],
 		"replaces": "Monument",
 		"cost": 40,
 		"hurryCostModifier": 40,
@@ -105,7 +105,7 @@
 	},
 	{
 		"name": "Fortaleza Naimana",
-		"uniqueTo": ["Gran Nariño","Confederación Muisca"],
+		"uniqueTo": ["Gobi-Altai"],
 		"replaces": "Arsenal",
 		"requiredTech": "Metallurgy",
 		"cost": 200,
@@ -125,27 +125,8 @@
 
 	},
 	{
-		"name": "Peruvian Restaurant",
-		"uniqueTo": "Confederación Muisca",
-		"replaces": "Broadcast Tower",
-		"requiredTech": "Radio",
-		"requiredBuilding": "Museum",
-		"maintenance": 3,
-		"food": 2,
-		"culture": 3,
-		"gold": 1,
-		"percentStatBonus": {"culture": 25},
-		"uniqueTo": "Confederación Muisca,
-		"civilopediaText": [
-			{
-				"text": "The globally famous Peruvian cuisine, dating back to Incan times, is the shiny jewel of Quechua dishes. Featuring the Cuy and the Ceviche, Peruvian food is to admire."
-			}
-		]
-	},
-]
-	{
-		"name": "Holodeck",
-		"uniqueTo": "Confederación Muisca",
+		"name": "Plaza del carnaval",
+		"uniqueTo": "Gran Nariño",
 		"replaces": "Circus Maximus",
 		"cost": 480,
 		"happiness": 12,
@@ -157,13 +138,5 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Confederación Muisca",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
-	}
+		
 ]
