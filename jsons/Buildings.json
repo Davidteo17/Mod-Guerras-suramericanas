@@ -11,7 +11,7 @@
 		"uniques": "[+1 Production, +1 Culture, +3 Gold]",
     },
 		"name": "Catedral Sagrado Corazón de Jesús",
-	        "uniqueTo": "Confederación Muisca",
+	        "uniqueTo": "Confederación Muisca","Gran Nariño",
 		"replaces": "Opera House",
 		"requiredTech": "Acoustics",
 		"requiredBuilding": "Amphitheater",
