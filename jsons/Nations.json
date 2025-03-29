@@ -44,7 +44,7 @@
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "¡Salve, oh Nariño bendito, tierra donde Dios puso su mano y la Patria su corazón!, Con el sacrosanto volcán Galeras como altar natural y el río Guáitara cual serpiente bautismal que fluye de los designios divinos, te saludo, ¡oh tierra de Cristo Rey y de la Virgen de las Lajas! Donde cada amanecer es un "Deo Gratias" escrito en oro sobre los cafetales, y cada noche un rosario de estrellas tejido por manos campesinas.",
-		"startIntroPart2": "¡Por la Patria que late en nuestro pecho!, Por el grito de "¡Viva Nariño libre! que resonó en la Independencia,por la sangre de nuestros héroes mezclada con el barro de los caminos reales, por las manos que siembran papas como actos de amor a Colombia y por los niños que cantan el Himno Nacional bajo la sombra del arrayán",
+		"startIntroPart2": "¡Por la Patria que late en nuestro pecho!, Por el grito de ¡Viva Nariño libre! que resonó en la Independencia,por la sangre de nuestros héroes mezclada con el barro de los caminos reales, por las manos que siembran papas como actos de amor a Colombia y por los niños que cantan el Himno Nacional bajo la sombra del arrayán",
 		"declaringWar": "¡Guerra, hermanos de Nariño!, Que el rugido del volcán Galeras despierte nuestra ira sagrada!, Los enemigos han profanado nuestros santuarios, pisoteado los altares de La Virgen de Las Lajas, y manchado con su insolencia la tierra que sudor y sangre consagraron nuestros abuelos. ¡Ya basta!, ¡Que Nariño, hoy como ayer, sea tumba de tiranos!",
 		"attacked": "¡Que los cañones de la Independencia vuelvan a tronar!",
 		"defeated": "La muerte no se compara con el olvido.",
@@ -58,12 +58,9 @@
 		"innerColor": [146, 221, 10],
 		"favoredReligion": "Christianity",
 		"uniques": ["[+1 Faith, +1 Culture, +1 Production] fom every  [Mountain]"],
-		"cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Düsseldorf","Bremen",
-			"Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
-			"Münster","Rostock","Chemnitz","Braunschweig","Halle","Mönchengladbach","Kiel","Wuppertal","Freiburg","Hagen",
-			"Erfurt","Kaiserslautern","Kassel","Oberhausen","Hamm","Saarbrücken","Krefeld","Pirmasens","Potsdam","Solingen",
-			"Osnabrück","Ludwigshafen","Leverkusen","Oldenburg","Neuss","Mülheim","Darmstadt","Herne","Würzburg",
-			"Recklinghausen","Göttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"]
+		"cities": ["Pasto","Tumaco","Ipiales","Nariñol","cumbal","cumbitara","Arboleda","Buensaco","Funes","Guachucal",
+			"Samaniego","Belen de Nariño","La Union","San Bernardo","Túqueres","La Cruz","Alban","Guaitarilla",
+			"Puerres","Olaya Herrera","Ancuya","Contadero","Maguí Payán","Roberto Payán","Iles","Pupiales","Córdoba de Nariño","Gualmatán",]
 	},
 	{
 		"name": "The Ottomans",
