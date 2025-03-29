@@ -11,7 +11,7 @@
 	    },
 	{
 		"name": "Catedral Santuario nuestra señora de las lajas",
-	        "uniqueTo": "Gran Nariño","Confederación Muisca",
+	        "uniqueTo": ["Gran Nariño","Confederación Muisca"],
 		"replaces": "Opera House",
 		"requiredTech": "Acoustics",
 		"requiredBuilding": "Amphitheater",
@@ -25,6 +25,17 @@
 			}
 		]
 	    },
+	{
+		"name": "Pukara usurpado",
+		"uniqueTo": "Confederación Muisca",
+		"food": 3,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+		 },
 	{
 		"name": "Pukara usurpado",
 		"uniqueTo": "Confederación Muisca",
