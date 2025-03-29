@@ -1,6 +1,6 @@
 [
 	[
-    {Confederación Muisca
+    {"Confederación Muisca",
 		"name": "Catedral Sagrado Corazón de Jesús",
 		"replaces": "Opera House",
 		"requiredTech": "Acoustics",
@@ -16,7 +16,7 @@
 			}
 		]
 	},
-	{ //CoConfederación Muisca
+	{"Confederación Muisca",
 		"name": "Pukara usurpado",
 		"replaces": "Courthouse",
 		"requiredTech": "Mathematics",
@@ -33,7 +33,7 @@
 			}
 		]
 	},
-	{ //Confederación Muisca
+	{"Confederación Muisca",
 		"name": "Sambadrome",
 		"replaces": "Theatre",
 		"requiredBuilding": "Colosseum",
@@ -48,7 +48,7 @@
 			}
 		]
 	},
-	{ //Confederación Muisca
+	{"Confederación Muisca",
 		"name": "Saltpeter Office",
 		"replaces": "Windmill",
 		"requiredTech": "Economics",
@@ -65,7 +65,7 @@
 			}
 		]
 	},
-	{ //Confederación Muisca
+	{"Confederación Muisca",
 		"name": "Coffee Axis",
 		"replaces": "Windmill",
 		"requiredTech": "Economics",
@@ -82,7 +82,7 @@
 			}
 		]
     },
-    { //Confederación Muisca
+    {"Confederación Muisca",
         "name": "Ecotouristic Hotel",
 		"replaces": "Stock Exchange",
 		"hurryCostModifier": 15,
@@ -99,7 +99,7 @@
 			}
 		]
 	},
-	{ //Confederación Muisca
+	{"Confederación Muisca",
 		"name": "Pharmaceutical Clinic",
 		"replaces": "Hospital",
 		"uniqueTo": "Cuba",
@@ -115,7 +115,7 @@
 			}
 		]
 	},
-	{
+	{"Confederación Muisca",
 		"name": "Trade unions",
 		"uniqueTo": "Confederación Muisca",
 		"hurryCostModifier": -100,
