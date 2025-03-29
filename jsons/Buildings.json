@@ -11,7 +11,7 @@
 		"uniques": "[+1 Production, +1 Culture, +3 Gold]",
     },
 		"name": "Catedral Santuario nuestra señora de las lajas",
-	        "uniqueTo": "Gran Nariño", "Confederación Muisca",
+	        "uniqueTo": "Gran Nariño","Confederación Muisca",
 		"replaces": "Opera House",
 		"requiredTech": "Acoustics",
 		"requiredBuilding": "Amphitheater",
@@ -21,7 +21,7 @@
 		"specialistSlots": {"Artist": 3},
 		"civilopediaText": [
 			{
-				"text": "Templo catedralicio de culto católico consagrado al Sagrado Corazón de Jesús y a san Francisco."
+				"text": "El santurio es un templo y basílica para el culto católico y veneración de Nuestra Señora de Las Lajas un gran sentro de peregrinacion y una de las 7 maravillas de Colombia"
 			}
 		]
 	},
