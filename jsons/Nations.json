@@ -85,9 +85,9 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "La cruz de las Estepas",
 		"uniques": ["[+30]% Strength <vs [City-States]>", "[+1] Movement <for [Mounted] units>"],
-		"cities": ["Istanbul","Edirne","Ankara","Bursa","Konya","Samsun","Gaziantep","Diyarbakır","Izmir","Kayseri","Malatya",
-			"Mersin","Antalya","Zonguldak","Denizli","Ordu","Muğla","Eskişehir","Inebolu","Sinop","Adana","Artvin",
-			"Bodrum"]
+		"cities": ["Tseel","Sharga","Nutsgen Uul","Uvs Nurur","Atirag","Khar Us","Tsa Baarau","Bombogorr","Tarvagatai","Uliastai","Sharga",
+			"Tsambagarau,"Toukhon","Ongi","Nazaret de Altai","Antioquia de Altai","Tarso de Altai","Naimanapolis","Keriapois","Nestoria","Paso de la Cruz",
+			"Salvador"]
 	},
 	{
 		"name": "Korea",
