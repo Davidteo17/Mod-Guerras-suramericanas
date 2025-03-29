@@ -1,16 +1,14 @@
 [
 	[
 	    {
-		"name": "Smeltery",
-        "replaces": "Forge",
-		"uniqueTo": "Nok",
-        "maintenance": 1,
+		"name": "Orfebreria Muisca",
+		"replaces": "Forge",
+		"uniqueTo": "Confederación Muisca",
+		"maintenance": 1,
 		"production": 1,
-        "hurryCostModifier": 25,
-        "requiredTech": "Iron Working",
-        "uniques": ["Provides [2] [Iron]","[+15]% Production when constructing [Spaceship part] units [in this city]",
-			"[+15]% Production when constructing [Land] units [in this city]",
-			"[+1 Production] from [Iron] tiles [in this city]"]
+		"hurryCostModifier": 25,
+		"requiredTech": "Iron Working",
+		"uniques": "[+1 Production, +1 Culture, +1 Gold]",
     },
 		"name": "Catedral Sagrado Corazón de Jesús",
 	        "uniqueTo": "Confederación Muisca",
