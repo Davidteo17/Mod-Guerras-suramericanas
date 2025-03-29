@@ -1,7 +1,6 @@
 [
-	},
 	{
-		"name": "Maori Warrior",
+		"name": "Levas Pastusas",
 		"unitType": "Sword",
 		"uniqueTo": "Polynesia",
 		"replaces": "Warrior",
@@ -15,8 +14,7 @@
 	},
 	{
 		"name": "Hondero",
-		"unitType": "Archery",
-		"uniqueTo": "Inca",
+		"uniqueTo": ""Confederación Muisca",
 		"replaces": "Archer",
 		"movement": 2,
 		"strength": 4,
