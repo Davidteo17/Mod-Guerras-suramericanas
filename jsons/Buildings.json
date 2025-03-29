@@ -1,5 +1,5 @@
 [
-	    {
+	{
 		"name": "Orfebreria Muisca",
 		"replaces": "Forge",
 		"uniqueTo": "Confederación Muisca",
@@ -8,7 +8,7 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Iron Working",
 		"uniques": "[+1 Production, +1 Culture, +3 Gold]",
-	    },
+	},
 	{
 		"name": "Catedral Santuario nuestra señora de las lajas",
 	        "uniqueTo": ["Gran Nariño","Confederación Muisca"],
@@ -24,7 +24,7 @@
 				"text": "El santurio es un templo y basílica para el culto católico y veneración de Nuestra Señora de Las Lajas un gran sentro de peregrinacion y una de las 7 maravillas de Colombia"
 			}
 		]
-	    },
+	},
 	{
 		"name": "Pukara usurpado",
 		"uniqueTo": "Confederación Muisca",
@@ -35,7 +35,7 @@
 			"[+1 Food] from [Bananas] tiles [in this city]",
 			"[+1 Food] from [Wheat] tiles [in this city]"],
 		"requiredTech": "Pottery"
-		 },
+	 },
 	{
 		"name": "Pukara usurpado",
 		"uniqueTo": "Confederación Muisca",
