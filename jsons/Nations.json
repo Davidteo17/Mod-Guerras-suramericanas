@@ -64,21 +64,21 @@
 	},
 	{
 		"name": "Gobi-Altai",
-		"leaderName": "Gran casique kurchakus",
-		"adjective": ["Naimanos y Keraitas],
+		"leaderName": "Gran Casique Kurchakus",
+		"adjective": ["Naimanos y Keraitas"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
-
-        "startIntroPart1": "Que el Viento Blanco de las Estepas lleve mi voz hasta tu ger sagrado, donde el humo del incienso nestoriano se eleva junto al canto de los chamanes. Yo soy kurchakus, señor de los Tres Ríos de Hierro, cristiano bajo la Cruz pero jinete bajo el Tengri eterno..",
-        "startIntroPart2": "Mighty Caliph, your people ask you to build again the Empire, to the level of power and glory it once achieved, and beyond! Will you revive the Ottoman golden age? Will your new empire shine through the ages of history?",
-
-        "declaringWar": "Your continued insolence and failure to recognize our preeminence leads us to war.",
-		"attacked": "Good. The world shall witness the incontestable might of my armies and the glory of the Empire.",
-		"defeated": "Ruin! Ruin! Istanbul becomes Iram of the Pillars, remembered only by the melancholy poets.",
+		
+		"startIntroPart1": "Que el Viento Blanco de las Estepas lleve mi voz hasta tu ger sagrado, donde el humo del incienso nestoriano se eleva junto al canto de los chamanes. Yo soy kurchakus, señor de los Tres Ríos de Hierro, cristiano bajo la Cruz pero jinete bajo el Tengri eterno.",
+		"startIntroPart2": "Por el poder de la lanza que unificó a las tribus, por la luz de la Estrella de Oriente que guió a los magos y por el sagrado Sudario que los nestorianos llevamos en los altares portátiles, te saludo con leche de yegua y pan de la Última Cena!",
+		"declaringWar": "Por el poder del Tengri que ruge en los cielos y por la Cruz de Cristo que brilla en mi estandarte, declaro que los cascos de mis jinetes oscurecerán el sol sobre tus tierra.",
+		"attacked": "Si no rindes tus armas ante el Sulde sagrado, que los lobos encuentren huesos para roer donde una vez estuvo tu pueblo.",
+		"defeated": "No es posible, los ciervos de satanas triunfaron hoy pero las hordas Naimanas regresaran para traerte el juicio final.",
 		"introduction": "Que los vientos sagrados de la sabiduría ancestral soplen a tu favor y que el fuego de los antepasados ilumine tu camino. Bajo la sombra del gran árbol cósmico, donde las raíces beben de la memoria de la tierra y las ramas acarician los secretos del cielo, te saludo con honra y reverencia.",
-		"neutralHello": "Greetings!",
-		"hateHello": "What do you want?",
-		"tradeRequest": "Let us do business! Would you be interested?",
+		
+		"neutralHello": "Hola hermano de las estpas!",
+		"hateHello": "Es un Kitan No conose el honor!",
+		"tradeRequest": "Que el Viento Blanco lleve esta ofrenda de paz",
 
         "outerColor": [245,248,185],
         "innerColor": [18,84,30],
