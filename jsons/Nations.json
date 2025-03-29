@@ -60,22 +60,22 @@
 		"uniques": ["[+1 Faith, +1 Culture, +1 Production] fom every  [Mountain]"],
 		"cities": ["Pasto","Tumaco","Ipiales","Nariñol","cumbal","cumbitara","Arboleda","Buensaco","Funes","Guachucal",
 			"Samaniego","Belen de Nariño","La Union","San Bernardo","Túqueres","La Cruz","Alban","Guaitarilla",
-			"Puerres","Olaya Herrera","Ancuya","Contadero","Maguí Payán","Roberto Payán","Iles","Pupiales","Córdoba de Nariño","Gualmatán",]
+			"Puerres","Olaya Herrera","Ancuya","Contadero","Maguí Payán","Roberto Payán","Iles","Pupiales","Córdoba de Nariño","Gualmatán"]
 	},
 	{
-		"name": "The Ottomans",
-		"leaderName": "Suleiman I",
-		"adjective": ["Ottoman"],
-		"startBias": ["Coast"],
+		"name": "Gobi-Altai",
+		"leaderName": "Gran casique kurchakus",
+		"adjective": ["Naimanos y Keraitas],
+		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 
-        "startIntroPart1": "O Great Sultan Suleiman, may the God bless you! You are revered for your power, wealth and generosity, and you truly deserves to be called the 'Magnificent'! The Ottoman Empire was born in Bithynia, starting as a small country in Eastern Anatolia in 12th century, then expanded to west into Anatolia. Over the next century, your people vanquished the empire of Byzantium, annexing Turkey and the Balkans, and smartly assimilating all wonders and knowledge of the Byzantine civilization. In the mid 15th century, the Ottomans added Constantinople to their empire, establishing a strategic link between Europe and the Middle East. The Empire would continue to expand for centuries reaching North Africa, Middle East and Eastern Europe at its height, but brutally disappeared in the chaos of the first world war, in early 20th century.",
+        "startIntroPart1": "Que el Viento Blanco de las Estepas lleve mi voz hasta tu ger sagrado, donde el humo del incienso nestoriano se eleva junto al canto de los chamanes. Yo soy kurchakus, señor de los Tres Ríos de Hierro, cristiano bajo la Cruz pero jinete bajo el Tengri eterno..",
         "startIntroPart2": "Mighty Caliph, your people ask you to build again the Empire, to the level of power and glory it once achieved, and beyond! Will you revive the Ottoman golden age? Will your new empire shine through the ages of history?",
 
         "declaringWar": "Your continued insolence and failure to recognize our preeminence leads us to war.",
 		"attacked": "Good. The world shall witness the incontestable might of my armies and the glory of the Empire.",
 		"defeated": "Ruin! Ruin! Istanbul becomes Iram of the Pillars, remembered only by the melancholy poets.",
-		"introduction": "From the magnificence of Topkapi, the Ottoman nation greets you, stranger! I'm Suleiman, Kayser-I Rum, and I bestow upon you my welcome!",
+		"introduction": "Que los vientos sagrados de la sabiduría ancestral soplen a tu favor y que el fuego de los antepasados ilumine tu camino. Bajo la sombra del gran árbol cósmico, donde las raíces beben de la memoria de la tierra y las ramas acarician los secretos del cielo, te saludo con honra y reverencia.",
 		"neutralHello": "Greetings!",
 		"hateHello": "What do you want?",
 		"tradeRequest": "Let us do business! Would you be interested?",
