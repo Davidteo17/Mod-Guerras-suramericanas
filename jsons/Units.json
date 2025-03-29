@@ -1,18 +1,34 @@
 [
+	},
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Confederación Muisca","Gobi-Altai",
-		"replaces": "Machine Gun",
+		"name": "Maori Warrior",
+		"unitType": "Sword",
+		"uniqueTo": "Polynesia",
+		"replaces": "Warrior",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"strength": 8,
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"promotions": ["Haka War Dance"],
+		"upgradesTo": "Swordsman",
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Hondero",
+		"unitType": "Archery",
+		"uniqueTo": "Inca",
+		"replaces": "Archer",
+		"movement": 2,
+		"strength": 4,
+		"rangedStrength": 7,
+		"cost": 40,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"promotions": ["Slinger Withdraw"],
+		"attackSound": "arrow"
+	},
+	{
 	},
 	{
 		"name": "Levas Pastusas",
