@@ -10,16 +10,15 @@
 		"requiredTech": "Iron Working",
 		"uniques": "[+1 Production, +1 Culture, +3 Gold]",
     },
-		"name": "Catedral Sagrado Corazón de Jesús",
+		"name": "Catedral Santuario nuestra señora de las lajas",
 	        "uniqueTo": "Confederación Muisca","Gran Nariño",
 		"replaces": "Opera House",
 		"requiredTech": "Acoustics",
 		"requiredBuilding": "Amphitheater",
 		"maintenance": 2,
-		"happiness": 1,
-		"culture": 5,
+		"happiness": 5,
+		"culture": 1,
 		"specialistSlots": {"Artist": 3},
-		"uniqueTo": "Confederación Muisca",
 		"civilopediaText": [
 			{
 				"text": "Templo catedralicio de culto católico consagrado al Sagrado Corazón de Jesús y a san Francisco."
