@@ -2,7 +2,7 @@
 	{
 		"name": "Phasers",
 		"unitType": "Ranged",
-		"uniqueTo": "Confederación Muisca",
+		"uniqueTo": "Confederación Muisca","Gobi-Altai",
 		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 90,
@@ -15,9 +15,23 @@
 		"attackSound": "phasers"
 	},
 	{
-		"name": "Khan",
+		"name": "Levas Pastusas",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 25,
+		"cost": 185,
+		"requiredTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
+		"promotions": ["Formation I"],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combustion",
+		"attackSound": "horse"
+	},
+	{
+		"name": "Khan Nestoriano",
 		"unitType": "Civilian",
-		"uniqueTo": "Mongolia",
+		"uniqueTo": "Gobi-Altai",
 		"replaces": "Great General",
 		"uniques": [
             "Empire enters a [8]-turn Golden Age <by consuming this unit>",
