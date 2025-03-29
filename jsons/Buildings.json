@@ -1,7 +1,8 @@
 [
 	[
-    {"Confederación Muisca",
+    {
 		"name": "Catedral Sagrado Corazón de Jesús",
+	        "uniqueTo": "Confederación Muisca",
 		"replaces": "Opera House",
 		"requiredTech": "Acoustics",
 		"requiredBuilding": "Amphitheater",
