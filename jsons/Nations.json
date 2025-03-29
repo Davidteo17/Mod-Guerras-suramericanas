@@ -38,26 +38,26 @@
 			"Tocancipá","Cota","Ubaté","Chipatá","Turmequé","Hunanquiráa"]
 	},
 	{
-		"name": "Germany",
-		"leaderName": "Otto von Bismarck",
-		"adjective": ["German"],
+		"name": "Nariño",
+		"leaderName": "José Hilario López",
+		"adjective": ["Nariñense],
 		"preferredVictoryType": "Scientific",
-
-        "startIntroPart1": "All hail to Otto von Bismarck, first chancellor of Germany and its empire! During the ancient era, Germany was a land fragmented in several tribes but already showed great promise as the Roman Empire itself struggled to bend the Germans to its will. Germany, as one nation, was slowly built on the ruins of the Holy Roman Empire, and waited 1871 to be finally unified after the glorious victory on France and Napoleon III. The German people are creative, intelligent, industrious and proven to be talented warriors through history. Despite great catastrophes and failures in the first half of the 20th century, Germany can always rely on its people will and strength to be among the greatest and powerful nations in the world.",
-        "startIntroPart2": "Great Prince Bismarck, glory and power are at the heart of the German nation. Your people are bright, and lend you their iron will to lead Germany once again. Will your new empire shine through the ages of history?",
-
-        "declaringWar": "I cannot wait until ye grow even mightier. Therefore, prepare for war!",
-		"attacked": "Corrupted villain! We will bring you into the ground!",
-		"defeated": "Germany has been destroyed. I weep for the future generations.",
-		"introduction": "Guten Tag. In the name of the great German people, I bid you welcome.",
-		"neutralHello": "What now?",
-		"hateHello": "So, out with it!",
-		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
-		"outerColor": [179, 178, 184],
-		"innerColor": [37, 43, 33],
-		"uniqueName": "Furor Teutonicus",
-		"uniques": ["When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",
-			"[-25]% maintenance costs <for [Land] units>"],
+		
+		"startIntroPart1": "¡Salve, oh Nariño bendito, tierra donde Dios puso su mano y la Patria su corazón!, Con el sacrosanto volcán Galeras como altar natural y el río Guáitara cual serpiente bautismal que fluye de los designios divinos, te saludo, ¡oh tierra de Cristo Rey y de la Virgen de las Lajas! Donde cada amanecer es un "Deo Gratias" escrito en oro sobre los cafetales, y cada noche un rosario de estrellas tejido por manos campesinas.",
+		"startIntroPart2": "¡Por la Patria que late en nuestro pecho!, Por el grito de "¡Viva Nariño libre!" que resonó en la Independencia,por la sangre de nuestros héroes mezclada con el barro de los caminos reales, por las manos que siembran papas como actos de amor a Colombia y por los niños que cantan el Himno Nacional bajo la sombra del arrayán",
+		"declaringWar": "¡Guerra, hermanos de Nariño!, Que el rugido del volcán Galeras despierte nuestra ira sagrada!, Los enemigos han profanado nuestros santuarios, pisoteado los altares de La Virgen de Las Lajas, y manchado con su insolencia la tierra que sudor y sangre consagraron nuestros abuelos. ¡Ya basta!, ¡Que Nariño, hoy como ayer, sea tumba de tiranos!",
+		"attacked": "¡Que los cañones de la Independencia vuelvan a tronar!",
+		"defeated": "La muerte no se compara con el olvido.",
+		"introduction": "Un salodo de toda la gente de nariño, !se bienvenido¡",
+		
+		"neutralHello": "Desde las alturas del volcán Galeras, donde el cielo besa la tierra, hasta las playas doradas de Tumaco, donde el mar susurra historias ancestrales, les saludo con el corazón lleno de orgullo.",
+		"hateHello": "Que el canto del colibrí anuncie un nuevo amanecer.",
+		"tradeRequest": "Hermanos, hoy deponemos las armas. No por cobardía, sino porque la sabiduría de nuestros mayores nos dice, La verdadera victoria es sembrar maíz donde hubo sangre.",
+		
+		"outerColor": [43, 88, 46],
+		"innerColor": [146, 221, 10],
+		"favoredReligion": "Christianity",
+		"uniques": ["[+1 Faith, +1 Culture, +1 Production] fom every  [Mountain]"],
 		"cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Düsseldorf","Bremen",
 			"Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
 			"Münster","Rostock","Chemnitz","Braunschweig","Halle","Mönchengladbach","Kiel","Wuppertal","Freiburg","Hagen",
@@ -120,6 +120,3 @@
 			"Changwon","Andong","Gongju","Haeju","Cheongju","Mokpo","Dongducheon","Geoje","Suncheon","Jinju","Sangju",
 			"Rason","Gyeongju","Chungju","Sacheon","Gimje","Anju"]
 	},
-
-	{
-		"name
