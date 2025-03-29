@@ -26,7 +26,20 @@
 		"promotions": ["Slinger Withdraw"],
 		"attackSound": "arrow"
 	},
-	{
+	{	
+		"name": "Arquero Nomada",
+		"replaces": "Archer",
+		"unitType": "Archery",
+		"uniqueTo": "Scythia",
+		"movement": 2,
+		"strength": 4,
+		"rangedStrength": 8,
+		"cost": 40,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"promotions": ["Steppe Hunter"],
+		"attackSound": "arrow"
 	},
 	{
 		"name": "Levas Pastusas",
