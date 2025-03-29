@@ -1,6 +1,6 @@
 [
 	[
-    { //Confederación Muisca
+    { /Confederación Muisca
 		"name": "Catedral Sagrado Corazón de Jesús",
 		"replaces": "Opera House",
 		"requiredTech": "Acoustics",
