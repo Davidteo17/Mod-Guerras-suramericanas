@@ -2,7 +2,7 @@
 	{
 		"name": "Levas Pastusas",
 		"unitType": "Sword",
-		"uniqueTo": "Polynesia",
+		"uniqueTo": "Gran Nariño",
 		"replaces": "Warrior",
 		"movement": 2,
 		"strength": 8,
@@ -14,7 +14,7 @@
 	},
 	{
 		"name": "Hondero",
-		"uniqueTo": "Confederación Muisca",
+		"uniqueTo": ["Gran Nariño","Confederación Muisca"],
 		"replaces": "Archer",
 		"movement": 2,
 		"strength": 4,
