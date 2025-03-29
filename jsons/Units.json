@@ -42,8 +42,9 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Levas Pastusas",
+		"name": "Catafractos Naimanos",
 		"unitType": "Mounted",
+		"uniqueTo": "Gobi-Altai",
 		"movement": 4,
 		"strength": 25,
 		"cost": 185,
