@@ -79,17 +79,15 @@
 		"neutralHello": "Hola hermano de las estpas!",
 		"hateHello": "Es un Kitan No conose el honor!",
 		"tradeRequest": "Que el Viento Blanco lleve esta ofrenda de paz",
-
-        "outerColor": [245,248,185],
-        "innerColor": [18,84,30],
-
-        "uniqueName": "Barbary Corsairs",
-		"uniques": ["[-66]% maintenance costs <for [Water] units>",
-			"When defeating a [{Barbarian} {Water}] unit, earn [25] Gold and recruit it <with [50]% chance>"],
+		
+		"outerColor": [245,248,185],
+		"innerColor": [18,84,30],
+		"favoredReligion": "Christianity",
+		"uniqueName": "La cruz de las Estepas",
+		"uniques": ["[+30]% Strength <vs [City-States]>", "[+1] Movement <for [Mounted] units>"],
 		"cities": ["Istanbul","Edirne","Ankara","Bursa","Konya","Samsun","Gaziantep","Diyarbakır","Izmir","Kayseri","Malatya",
 			"Mersin","Antalya","Zonguldak","Denizli","Ordu","Muğla","Eskişehir","Inebolu","Sinop","Adana","Artvin",
-			"Bodrum","Eregli","Silifke","Sivas","Amasya","Marmaris","Trabzon","Erzurum","Urfa","Izmit","Afyonkarahisar",
-			"Bitlis","Yalova"]
+			"Bodrum"]
 	},
 	{
 		"name": "Korea",
