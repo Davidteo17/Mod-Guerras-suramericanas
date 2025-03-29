@@ -17,8 +17,9 @@
 			}
 		]
 	},
-	{"Confederación Muisca",
+	{
 		"name": "Pukara usurpado",
+		"uniqueTo": "Confederación Muisca",
 		"replaces": "Courthouse",
 		"requiredTech": "Mathematics",
 		"hurryCostModifier": 50,
@@ -34,8 +35,9 @@
 			}
 		]
 	},
-	{"Confederación Muisca",
+	{
 		"name": "Sambadrome",
+		"uniqueTo": "Confederación Muisca",
 		"replaces": "Theatre",
 		"requiredBuilding": "Colosseum",
 		"requiredTech": "Printing Press",
@@ -49,8 +51,9 @@
 			}
 		]
 	},
-	{"Confederación Muisca",
+	{
 		"name": "Saltpeter Office",
+		"uniqueTo": "Confederación Muisca",
 		"replaces": "Windmill",
 		"requiredTech": "Economics",
 		"hurryCostModifier": 25,
@@ -66,8 +69,9 @@
 			}
 		]
 	},
-	{"Confederación Muisca",
+	{
 		"name": "Coffee Axis",
+		"uniqueTo": "Confederación Muisca",
 		"replaces": "Windmill",
 		"requiredTech": "Economics",
 		"maintenance": 2,
@@ -83,25 +87,27 @@
 			}
 		]
     },
-    {"Confederación Muisca",
-        "name": "Ecotouristic Hotel",
-		"replaces": "Stock Exchange",
-		"hurryCostModifier": 15,
-		"requiredBuilding": "Bank",
-		"requiredTech": "Electricity",
-		"gold": 3,
-		"percentStatBonus": {"gold": 25},
-		"uniqueTo": "Costa Rica",
-		"uniques": ["[+1 Gold] from [Forest] tiles [in this city]","[+1 Gold] from [Coast] tiles [in this city]",
+    {
+	    "name": "Ecotouristic Hotel",
+	    "uniqueTo": "Confederación Muisca",
+	    "replaces": "Stock Exchange",
+	    "hurryCostModifier": 15,
+	    "requiredBuilding": "Bank",
+	    "requiredTech": "Electricity",
+	    "gold": 3,
+	    "percentStatBonus": {"gold": 25},
+	    "uniqueTo": "Costa Rica",
+	    "uniques": ["[+1 Gold] from [Forest] tiles [in this city]","[+1 Gold] from [Coast] tiles [in this city]",
 			   "[+15]% [Gold] <after discovering [Flight]>"],
-		"civilopediaText": [
+	    "civilopediaText": [
 			{
 				"text": "Pioneers on the ecotourism buisness, added with the Costa Rican landscapes and Caribbean shores, makes of them a great destiny for holiday vacation."
 			}
 		]
 	},
-	{"Confederación Muisca",
+	{
 		"name": "Pharmaceutical Clinic",
+		"uniqueTo": "Confederación Muisca",
 		"replaces": "Hospital",
 		"uniqueTo": "Cuba",
 		"food": 2,
@@ -116,7 +122,7 @@
 			}
 		]
 	},
-	{"Confederación Muisca",
+	{
 		"name": "Trade unions",
 		"uniqueTo": "Confederación Muisca",
 		"hurryCostModifier": -100,
@@ -143,8 +149,9 @@
 		"uniques": ["Free Social Policy", "Will not be displayed in Civilopedia", "Can only be built <in [in capital] cities>", "Unsellable"],
 		"requiredTech": "Biology",
 	},
-	{ //Ecuador's
+	{
 		"name": "Main Square",
+		"uniqueTo": "Confederación Muisca",
 		"replaces": "Monument",
 		"cost": 40,
 		"hurryCostModifier": 40,
@@ -159,9 +166,9 @@
 				"text": "The classical main squares of Ecuador, dating back to the pre-colonial times, are between the best conserved of all Hispanic America, with over 300 years of existence, these plazas are a magnificent piece of history alive."
 			}
 		]
-	},
-	{ //El Salvador's
+	}
 		"name": "Public Veterinary",
+		"uniqueTo": "Confederación Muisca",
 		"requiredTech": "Fertilizer",
 		"maintenance": 2,
 		"uniqueTo": "Confederación Muisca",
@@ -172,8 +179,9 @@
 			}
 		]
 	},
-	{ //Haiti's
+	{ 
 		"name": "Vetiver Plantation",
+		"uniqueTo": "Confederación Muisca",
 		"replaces": "Granary",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
@@ -189,8 +197,9 @@
 			}
 		]
 	},
-	{ //Hondura's
+	{
 		"name": "Platanera",
+		"uniqueTo": "Confederación Muisca",
 		"replaces": "Windmill",
 		"food": 2,
 		"production": 1,
@@ -204,8 +213,9 @@
 			}
 		]
 	},
-	{ //Mexico's
+	{
 		"name": "Chapultepec Castle",
+		"uniqueTo": "Confederación Muisca",
 		"isNationalWonder": true,
 		"requiredTech": "Steam Power",
 		"cost": 145,
@@ -223,8 +233,9 @@
 			}
 		]
 	},
-	{ //Panama´s
+	{
 		"name": "The Panama Canal",
+		"uniqueTo": "Confederación Muisca",
 		"isWonder": true,
 		"requiredTech": "Steam Power",
 		"cost": 1200,
@@ -239,8 +250,9 @@
 			}
 		]
 	},
-	{ //Paraguay's
+	{
 		"name": "Criollo Cannon",
+		"uniqueTo": "Confederación Muisca",
 		"replaces": "Arsenal",
 		"requiredTech": "Metallurgy",
 		"cost": 200,
@@ -260,6 +272,7 @@
 	},
 	{
 		"name": "Jesuit Hacienda",
+		"uniqueTo": "Confederación Muisca",
 		"replaces": "Windmill",
 		"requiredBuilding": "Monument",
 		"requiredTech": "Economics",
@@ -276,8 +289,9 @@
 			}
 		]
 	},
-	{ //Peru's
+	{
 		"name": "Peruvian Restaurant",
+		"uniqueTo": "Confederación Muisca",
 		"replaces": "Broadcast Tower",
 		"requiredTech": "Radio",
 		"requiredBuilding": "Museum",
@@ -296,8 +310,8 @@
 ]
 	{
 		"name": "Holodeck",
-		"replaces": "Circus Maximus",
 		"uniqueTo": "Confederación Muisca",
+		"replaces": "Circus Maximus",
 		"cost": 480,
 		"happiness": 12,
 		"culture": 12,
