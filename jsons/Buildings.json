@@ -88,7 +88,7 @@
 		"name": "Castillo san felipe de barajas",
 		"cost": 150,
 		"replaces": "Castle",
-		"uniqueTo": "India",
+		"uniqueTo": "Gran Bolívar",
 		"cityStrength": 7,
 		"cityHealth": 25,
 		"culture": 2,
@@ -100,7 +100,7 @@
 	{
 		"name": "base naval arc bolivar",
 		"replaces": "Military Base"
-		"uniqueTo": "India",
+		"uniqueTo": "Gran Bolívar",
 		"cityStrength": 12,
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
@@ -111,20 +111,20 @@
 	{
 		"name": "Mercado de Hetsemani",
 		"replaces": "Market",
-		"uniqueTo": "Arabia",
+		"uniqueTo": "Gran Bolívar",
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
 		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
-			"[+2 Gold] from [Oil] tiles [in this city]", "[+2 Gold] from [Oasis] tiles [in this city]"],
+			"[+2 Gold] from [Oil] tiles [in this city]", "[+1 Gold] from [Caoast] tiles [in this city]"],
 		"requiredTech": "Currency"
 	},
 	{
 		"name": "Murallas de cartagena",
 		"replaces": "Walls",
 		"cost": 65,
-		"uniqueTo": "Babylon",
+		"uniqueTo": "Gran Bolívar",
 		"cityStrength": 6,
 		"cityHealth": 100,
 		"hurryCostModifier": 25,
