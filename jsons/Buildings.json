@@ -11,7 +11,7 @@
 	},
 	{
 		"name": "Catedral Santuario nuestra señora de las lajas",
-	        "uniqueTo": ["Gran Nariño","Confederación Muisca"],
+	        "uniqueTo": "Gran Nariño",
 		"replaces": "Opera House",
 		"requiredTech": "Acoustics",
 		"requiredBuilding": "Amphitheater",
@@ -27,7 +27,7 @@
 	},
 	{
 		"name": "Pukara usurpado",
-		"uniqueTo": "Confederación Muisca",
+		"uniqueTo": ["Gran Nariño","Confederación Muisca"],
 		"food": 3,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
@@ -45,12 +45,7 @@
 		"uniques": ["[+1 Production, +1 Culture, +1 Gold] from [in this city]",
 			    "The Hacienda Cannot be build on Desert, Tundra nor Snow, only at Grassland/Plains Hills",
 			    "Limited to [4] per Civilization","Destroyed when the city is captured","Unsellable"],
-		"civilopediaText": [
-			{
-				"text": " Una plantacion de cafe Colombiano."
-			}
-		]
-
+		"civilopediaText": {"text": "Una plantacion de cafe Colombiano."}
 	},
 	{
 		"name": "Monumento a Los Heroes",
@@ -65,7 +60,7 @@
 			    "Cost increases by [20] per owned city"],
 		"civilopediaText": [
 			{
-				"text": "The classical main squares of Ecuador, dating back to the pre-colonial times, are between the best conserved of all Hispanic America, with over 300 years of existence, these plazas are a magnificent piece of history alive."
+				"text": "En honor a los muchos héroes que murieron por estas tierras."
 			}
 		]
 	},
@@ -82,7 +77,7 @@
 					"Provides [1] [Vetiver Oil] <after discovering [Astronomy]>"],
 		"civilopediaText": [
 			{
-				"text": "The vetiver plant growing has been mastered in the Haitian domains, leading it to be the top exporter of its oils, which are used for western cosmetics."
+				"text": "Los incas alguna vez conquistaron estas tierras, dejaron sus estructuras y su tecnología, hoy usadas en nuestro beneficio."
 			}
 		]
 	},
