@@ -79,7 +79,7 @@
 	{
 		"name": "los güechas",
 		"unitType": "Sword",
-		"uniqueTo": ""Confederación Muisca",
+		"uniqueTo": "Confederación Muisca",
 		"replaces": "Warrior",
 		"movement": 2,
 		"strength": 8,
