@@ -57,7 +57,6 @@
 			    "[+2 Culture] <after discovering [Dynamite]>",
 			    "Cost increases by [20] per owned city"],
 		"civilopediaText": {"text": "En honor a los muchos héroes que murieron por estas tierras."}
-		]
 	},
 	{ 
 		"name": "Terrazas de cultivo incas",
@@ -84,6 +83,53 @@
 		"uniques": ["[25]% Food is carried over after population increases [in this city]","[+1 Production, +1 Food] from [Plantation] tiles [in this city]"],
 		"civilopediaText": {"text": "Una plantacion de cafe Colombiano."}
 
+	},
+	{
+		"name": "Castillo san felipe de barajas",
+		"cost": 150,
+		"replaces": "Castle",
+		"uniqueTo": "India",
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"culture": 2,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"uniques": ["[+1 Gold] [in this city] <after discovering [Flight]>", "Destroyed when the city is captured"],
+		"requiredTech": "Chivalry"
+	},
+	{
+		"name": "base naval arc bolivar",
+		"replaces": "Military Base"
+		"uniqueTo": "India",
+		"cityStrength": 12,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Arsenal",
+		"requiredTech": "Replaceable Parts",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Mercado de Hetsemani",
+		"replaces": "Market",
+		"uniqueTo": "Arabia",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
+			"[+2 Gold] from [Oil] tiles [in this city]", "[+2 Gold] from [Oasis] tiles [in this city]"],
+		"requiredTech": "Currency"
+	},
+	{
+		"name": "Murallas de cartagena",
+		"replaces": "Walls",
+		"cost": 65,
+		"uniqueTo": "Babylon",
+		"cityStrength": 6,
+		"cityHealth": 100,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
 		"name": "Fortaleza Naimana",
