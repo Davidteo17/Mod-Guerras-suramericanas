@@ -57,6 +57,18 @@
 		"civilopediaText": {"text": "Infantería de mosquetes entrenada en tiempos de crisis, aunque su destreza y armamento son menores, su velocidad y valentía sol su mayor arma."}
 	},
 	{
+		"name": "Guaradia de las Lajas",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 27,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+		"civilopediaText": {"text": "Lo mejor de lo mejor de los fanáticos seguidores de Nuestra señora de las lajas."}
+	},
+	{
 		"name": "Navío de línea",
 		"unitType": "Ranged Water",
 		"uniqueTo": "Gran Nariño",
