@@ -8,22 +8,19 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Iron Working",
 		"uniques": "[+1 Production, +1 Culture, +3 Gold]",
+		"civilopediaText": {"text": "Los mejores orfebres del norte andino tenían orfebrerías sumamente avanzadas y productivas."}
 	},
 	{
 		"name": "Catedral Santuario nuestra señora de las lajas",
 	        "uniqueTo": "Gran Nariño",
-		"replaces": "Opera House",
+		"replaces": "Circus Maximus",
 		"requiredTech": "Acoustics",
 		"requiredBuilding": "Amphitheater",
 		"maintenance": 2,
 		"happiness": 5,
 		"culture": 1,
 		"specialistSlots": {"Artist": 3},
-		"civilopediaText": [
-			{
-				"text": "El santurio es un templo y basílica para el culto católico y veneración de Nuestra Señora de Las Lajas un gran sentro de peregrinacion y una de las 7 maravillas de Colombia"
-			}
-		]
+		"civilopediaText": {"text": "El santurio es un templo y basílica para el culto católico y veneración de Nuestra Señora de Las Lajas un gran sentro de peregrinacion y una de las 7 maravillas de Colombia"}
 	},
 	{
 		"name": "Pukara usurpado",
@@ -35,6 +32,7 @@
 			"[+1 Food] from [Bananas] tiles [in this city]",
 			"[+1 Food] from [Wheat] tiles [in this city]"],
 		"requiredTech": "Pottery"
+		"civilopediaText": {"text": "Los incas alguna vez conquistaron estas tierras, dejaron sus estructuras y su tecnología, hoy usadas en nuestro beneficio."}
 	},
 	{
 		"name": "Cafetales",
@@ -58,10 +56,7 @@
 			    "[+1 Science] from [Hill] tiles [in this city] <with [1] to [2] neighboring [City center] tiles> <with [1] to [6] neighboring [Mountain] tiles> <after discovering [Flight]>",
 			    "[+2 Culture] <after discovering [Dynamite]>",
 			    "Cost increases by [20] per owned city"],
-		"civilopediaText": [
-			{
-				"text": "En honor a los muchos héroes que murieron por estas tierras."
-			}
+		"civilopediaText": {"text": "En honor a los muchos héroes que murieron por estas tierras."}
 		]
 	},
 	{ 
@@ -75,11 +70,7 @@
 		"gold": 1,
 		"uniques": ["[+1 Food] from [Plantation] tiles [in this city]",
 					"Provides [1] [Vetiver Oil] <after discovering [Astronomy]>"],
-		"civilopediaText": [
-			{
-				"text": "Los incas alguna vez conquistaron estas tierras, dejaron sus estructuras y su tecnología, hoy usadas en nuestro beneficio."
-			}
-		]
+		"civilopediaText": {"text": "Los incas alguna vez conquistaron estas tierras, dejaron sus estructuras y su tecnología, hoy usadas en nuestro beneficio."}
 	},
 	{
 		"name": "Platanera",
@@ -91,11 +82,7 @@
 		"requiredTech": "Economics",
 		"uniqueTo": "Confederación Muisca",
 		"uniques": ["[25]% Food is carried over after population increases [in this city]","[+1 Production, +1 Food] from [Plantation] tiles [in this city]"],
-		"civilopediaText": [
-			{
-							"text": "Although it became a big industry thanks to colonialism, the Hondurans have turned it into a sign of national skill."
-			}
-		]
+		"civilopediaText": {"text": "Una plantacion de cafe Colombiano."}
 
 	},
 	{
@@ -112,17 +99,23 @@
 		"uniques": [
 				"[+1 Culture] <after discovering [Combined Arms]>",
 				"Destroyed when the city is captured"],
-		"civilopediaText": [
-			{
-				"text": "This valiant gunners fought with 'tooth and nail' to defend their fatherland from 3 antagonist nations at the same time, managing impressive victories that give the people pride."
-			}
-		]
-
+		"civilopediaText": {"text": "Una fortaleza al estilo chino en medio de las estepas, con un almacén y una foso útil para alejar a los asaltos de caballos."}
+	},
+	{
+		"name": "Avenales de las tierras bajas",
+		"uniqueTo": ["Gobi-Altai"],
+		"food": 3,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+		"civilopediaText": {"text": "El crecimiento del imperio trajo la necesidad de una producción agrícola en las pocas tierras cultivabas de la estepa, si bien las tribus dedicadas al pastoreo se oponen, esta es la orden del gran Khan, nadie bajo el imperio pasara hambre en invierno."}
 	},
 	{
 		"name": "Plaza del carnaval",
 		"uniqueTo": "Gran Nariño",
-		"replaces": "Circus Maximus",
+		"replaces": "Opera House",
 		"cost": 480,
 		"happiness": 12,
 		"culture": 12,
