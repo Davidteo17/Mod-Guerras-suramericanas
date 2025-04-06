@@ -39,12 +39,13 @@
 	},
 	{
 		"name": "Gran Nariño",
-		"leaderName": "José Hilario López",
+		"leaderName": "José María Obando",
 		"adjective": ["Nariñense"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "¡Salve, oh Nariño bendito, tierra donde Dios puso su mano y la Patria su corazón!, Con el sacrosanto volcán Galeras como altar natural y el río Guáitara cual serpiente bautismal que fluye de los designios divinos, te saludo, ¡oh tierra de Cristo Rey y de la Virgen de las Lajas! Donde cada amanecer es un Deo Gratias escrito en oro sobre los cafetales, y cada noche un rosario de estrellas tejido por manos campesinas.",
 		"startIntroPart2": "¡Por la Patria que late en nuestro pecho!, Por el grito de ¡Viva Nariño libre! que resonó en la Independencia,por la sangre de nuestros héroes mezclada con el barro de los caminos reales, por las manos que siembran papas como actos de amor a Colombia y por los niños que cantan el Himno Nacional bajo la sombra del arrayán",
+		
 		"declaringWar": "¡Guerra, hermanos de Nariño!, Que el rugido del volcán Galeras despierte nuestra ira sagrada!, Los enemigos han profanado nuestros santuarios, pisoteado los altares de La Virgen de Las Lajas, y manchado con su insolencia la tierra que sudor y sangre consagraron nuestros abuelos. ¡Ya basta!, ¡Que Nariño, hoy como ayer, sea tumba de tiranos!",
 		"attacked": "¡Que los cañones de la Independencia vuelvan a tronar!",
 		"defeated": "La muerte no se compara con el olvido.",
@@ -68,12 +69,14 @@
 		"adjective": ["Costeño"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
-		"personality": "Rafael Núñez",
+		
 		"startIntroPart1": "Hoy me paro frente a ustedes no solo como un hijo del Caribe, sino como un orgulloso bolivarense, forjado en la brisa de Cartagena, en el sol ardiente que cae sobre los Montes de María, y en la dulzura de un sancocho hecho con leña y con amor, Hoy no hablamos desde la nostalgia, sino desde el orgullo. Desde la piedra viva de nuestras murallas, desde las calles y los ríos que todavía sudan historia, y desde cada palmo de esta tierra que ha demostrado que ni el poder más grande puede someter a un pueblo decidido a ser libre, caerán las murallas pero nunca morirá el espíritu de la costa",
 		"startIntroPart2": "-------------------------",
+		
 		"declaringWar": "Así como Blas de Lezo defendió estas murallas con media vida, así como nuestros ancestros africanos resistieron el látigo y vencieron el olvido, nosotros también estamos listos para pelear. Y si hemos de ir al combate, lo haremos con machete en mano y el pecho abierto, sin miedo..",
 		"attacked": "No buscamos guerra, pero si la guerra viene, ¡que nos encuentre preparados y de pie!.",
 		"defeated": "El sol cae hoy con la muerte a sus pies, maldito, maldito que la sal seque tu cuerpo y que el sol queme tu piel, que dios castigue a los tiranos donde nosotros no hemos podido, morimos con honor.",
+		
 		"introduction": "Reciban un saludo lleno de alegría, hospitalidad y firme compromiso desde el corazón del Caribe colombiano: el glorioso departamento de Bolívar.",
 		"neutralHello": "Hola compadre!",
 		"hateHello": "hola",
