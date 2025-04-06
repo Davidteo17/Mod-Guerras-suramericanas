@@ -101,11 +101,11 @@
 	},
 	{
 		"name": "palos de trueno",
-		"unitType": "Gunpowder",
+		"unitType": "Gran Bolívar","Confederación Muisca"],
 		"replaces": "Musketman",
 		"movement": 3,
 		"strength": 22,
-		"cost": 150,
+		"cost": 130,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
@@ -128,26 +128,10 @@
 		"attackSound": "arrow"
 		"civilopediaText": {"text": "no hay mayor preparacion que las de los hombres que viven de a suervivencia."}
 	},
-	{
-		"name": "Caballeria Naimana",
-		"unitType": "Mounted",
-		"replaces": "Knight",
-		"uniqueTo": "Gobi-Altai",
-		"movement": 4,
-		"strength": 20,
-		"cost": 110,
-		"requiredTech": "Chivalry",
-		"requiredResource": "Horses",
-		"upgradesTo": "Cavalry",
-		"obsoleteTech": "Military Science",
-		"uniques": ["Can move after attacking","No defensive terrain bonus"],
-		"attackSound": "horse"
-		"civilopediaText": {"text": "Una clase guerrera especializada en caballería media muy preparada y experimentada."}
-	},
 	{	
 		"name": "Catafractos Naimanos",
 		"unitType": "Mounted",
-		"uniqueTo": ""Gobi-Altai",
+		"uniqueTo": "Gobi-Altai",
 		"replaces": "Horseman",
 		"movement": 3,
 		"strength": 15,
@@ -160,8 +144,6 @@
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 		"civilopediaText": {"text": "Unidad de elite del Khan, pesados caballos blindados al estío Parto pero con cultura Naimana y una fuerte convicción religiosa."}
-	},
-	{
 	},
 	{
 		"name": "Khan Nestoriano",
