@@ -24,7 +24,7 @@
 	},
 	{
 		"name": "Pukara usurpado",
-		"uniqueTo": ["Gran Nariño","Confederación Muisca"],
+		"uniqueTo": "Gran Nariño",
 		"food": 3,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
@@ -41,8 +41,6 @@
 		"requiredTech": "Economics",
 		"maintenance": 2,
 		"uniques": ["[+1 Production, +1 Culture, +1 Gold] from [in this city]",
-			    "The Hacienda Cannot be build on Desert, Tundra nor Snow, only at Grassland/Plains Hills",
-			    "Limited to [4] per Civilization","Destroyed when the city is captured","Unsellable"],
 		"civilopediaText": {"text": "Una plantacion de cafe Colombiano."}
 	},
 	{
