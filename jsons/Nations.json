@@ -2,36 +2,35 @@
 	{
 		"name": "Confederación Muisca",
 		"leaderName": "Saquesazipa Cacique muisca",
-		"adjective": ["Indigena"],
-		"startBias": ["Forest"],
+		"adjective": ["Muiscas y Tolimas"],
+		"startBias": ["Hill"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Soy un cacique muisca, guardián de los secretos de nuestra tierra sagrada, de los cerros verdes y los lagos que brillan bajo la mirada de Chie, el Sol, y Chía, la Luna",
 		"startIntroPart2": "Miranos ahora, Nuestros campos florecen con el fruto del maíz, nuestras manos moldean el barro y el oro, y nuestras palabras guardan la memoria de los ancestros. Pero no somos solo lo que hemos sido, sino también lo que seremos.",
 		
-		"declaringWar": "No buscamos la guerra, pero no tememos alzar nuestras macanas y flechas para proteger a nuestro pueblo, nuestra tierra y nuestra cultura. Que los dioses sean testigos de esta lucha, y que el destino decida el camino que habremos de seguir",
-		"attacked": "Hoy no celebramos una victoria, pero tampoco nos rendimos. Somos muiscas, hijos de la tierra, y nuestra fuerza reside en nuestra capacidad de levantarnos, aprender y seguir adelante",
-		"defeated": "Hemos luchado con honor, pero el destino no ha estado de nuestro lado. Nuestros enemigos han prevalecido, y nuestras fuerzas han sido mermadas",
-		"introduction": "Soy el cacique de estas tierras sagradas, guardián de los secretos de los cerros y los lagos que brillan bajo la mirada de Chie y Chía. Hoy, con el corazón pesado pero firme, alzo mi voz como el trueno que retumba en las montañas, para declarar que nuestra paz ha sido quebrantada",
+		"declaringWar": "No buscamos la guerra, pero no tememos alzar nuestras macanas y flechas para proteger a nuestro pueblo, nuestra tierra y nuestra cultura. Que los dioses sean testigos de esta lucha",
+		"attacked": "Hoy no celebramos una victoria, Somos muiscas, hijos de la tierra, y nuestra fuerza reside en nuestra capacidad de levantarnos, aprender y seguir adelante",
+		"defeated": "Hemos luchado con honor, pero el destino no ha estado de nuestro lado, Nuestros enemigos han prevalecido, y nuestras fuerzas han sido mermadas",
+		"introduction": "Con el corazón pesado pero firme, alzo mi voz como el trueno que retumba en las montañas, para declarar que nuestra paz ha sido quebrantada",
 		
-		"neutralHello": "Que el maíz, nuestro sustento, nunca falte en tu hogar, y que el fuego sagrado de Zuhé, el abuelo Sol, ilumine tus pensamientos y acciones?",
-		"neutralLetsHearIt": ["Necesito una mejor explicación","¿que me dices?","No entiendo"],
+		"neutralHello": "Que el maíz, nuestro sustento, nunca falte en tu hogar, y que el fuego sagrado de Zuhé, el abuelo Sol, ilumine tus pensamientos y acciones",
+		"neutralLetsHearIt": ["Necesito una mejor explicació.n","¿que me dices?","No entiendo..."],
 		"neutralNo": ["Esto es un insulto.","No!","Me rehuso."],
-		"neutralYes": ["Muy bien.","Porsupuesto, Si","Esto es muy bueno"],
+		"neutralYes": ["Muy bien.","Si claro","Esto es muy bueno"],
 
-		"hateHello": "Aquellos que han profanado nuestros templos, pisoteado nuestras cosechas y deshonrado a nuestros ancestros",
-		"hateLetsHearIt": ["Escuchame!","Dimelo","Que"],
+		"hateHello": "Te saludo extrajero, serás bienvenido cuando tus intenciones sean claras.",
+		"hateLetsHearIt": ["Escuchame Extrangero!"],
 		"hateNo": ["Esto  es posible!","Esto es una clase de humor europeo?","Que clase de bulgaridad es esta?"],
-		"hateYes": ["tendra que ser por el bien de mi pueblo.","tendre que aceptarlo.","muy bien..."],
+		"hateYes": ["tendra que ser por el bien de mi pueblo.","tendre que aceptarlo."],
 		
-		"afterPeace": "Hemos caminado por senderos de conflicto, donde la sangre ha manchado la tierra y el dolor ha nublado nuestros espíritus. Pero hoy, bajo la mirada de Chiminigagua, el creador de todo lo que existe, declaro que es tiempo de sembrar paz donde hubo discordia",
+		"afterPeace": "Hemos caminado por senderos de conflicto, donde la sangre ha manchado la tierra y el dolor ha nublado nuestros espíritus. Pero hoy, bajo la mirada de los dioses, declaro que es tiempo de sembrar paz donde hubo discordia",
 		"tradeRequest": "En nombre de la Confederación Muisca, declaro que nuestras tierras están abiertas al trueque y al intercambio, como lo han estado desde tiempos inmemoriales",
 
-		"outerColor": [ 53,0,87],
-		"innerColor": [238,201,9],
+		"outerColor": [153,5,3],
+		"innerColor": [244,232,54],
 		"favoredReligion": "Christianity",
-		"unique": ["[+1 Faith] [in all cities]",
-		"[-50]% maintenance on road & railroads"],
+		"uniques": ["[+1 Food, +1 Faith] from every [Pasture]","[+1 Faith] per [4] population [in all cities]"],
 		
 		"cities": ["Chía","Bacatá","Ubaque","Choachí","Chipaque","Cáquezad","Usme","Ubaté","Cucunubá","Simijaca",
 			"Susa","Hunza","Suamox","Guatavita","Nemocón","Zipaquirá","Tausa","Tibaná","Fúquene","Muequetá",
@@ -41,22 +40,25 @@
 		"name": "Gran Nariño",
 		"leaderName": "José María Obando",
 		"adjective": ["Nariñense"],
-		"preferredVictoryType": "Scientific",
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "¡Salve, oh Nariño bendito, tierra donde Dios puso su mano y la Patria su corazón!, Con el sacrosanto volcán Galeras como altar natural y el río Guáitara cual serpiente bautismal que fluye de los designios divinos, te saludo, ¡oh tierra de Cristo Rey y de la Virgen de las Lajas! Donde cada amanecer es un Deo Gratias escrito en oro sobre los cafetales, y cada noche un rosario de estrellas tejido por manos campesinas.",
-		"startIntroPart2": "¡Por la Patria que late en nuestro pecho!, Por el grito de ¡Viva Nariño libre! que resonó en la Independencia,por la sangre de nuestros héroes mezclada con el barro de los caminos reales, por las manos que siembran papas como actos de amor a Colombia y por los niños que cantan el Himno Nacional bajo la sombra del arrayán",
+		"startIntroPart1": "¡Salve, oh Nariño bendito, tierra donde Dios puso su mano y la Patria su corazón!, te saludo, ¡oh tierra de Cristo Rey y de la Virgen de las Lajas! Donde cada amanecer es un Deo Gratias escrito en oro sobre los cafetales.",
+		"startIntroPart2": "¡Por la Patria que late en nuestro pecho!, Por el grito de ¡Viva Nariño libre! que resonó en la Independencia, por la sangre de nuestros héroes, por las manos que siembran papas como actos de amor a Colombia y por los niños que cantan el Himno Nacional bajo la sombra del arrayán",
 		
-		"declaringWar": "¡Guerra, hermanos de Nariño!, Que el rugido del volcán Galeras despierte nuestra ira sagrada!, Los enemigos han profanado nuestros santuarios, pisoteado los altares de La Virgen de Las Lajas, y manchado con su insolencia la tierra que sudor y sangre consagraron nuestros abuelos. ¡Ya basta!, ¡Que Nariño, hoy como ayer, sea tumba de tiranos!",
+		"declaringWar": "¡Guerra, hermanos de Nariño!, Que el rugido del volcán Galeras despierte nuestra ira!, Los enemigos han profanado los altares, y manchado con su insolencia la tierra que sudor y sangre consagraron nuestros abuelos. ¡Ya basta!, ¡Que Nariño, hoy como ayer, sea tumba de tiranos!",
 		"attacked": "¡Que los cañones de la Independencia vuelvan a tronar!",
-		"defeated": "La muerte no se compara con el olvido.",
+		"defeated": "Nuestros ejércitos han sido exterminados y nuestros campos quemados y con todo el odio que puede existir en el mundo te repudiamos.",
 		"introduction": "Un salodo de toda la gente de nariño, !se bienvenido¡",
 		
 		"neutralHello": "Desde las alturas del volcán Galeras, donde el cielo besa la tierra, hasta las playas doradas de Tumaco, donde el mar susurra historias ancestrales, les saludo con el corazón lleno de orgullo.",
-		"hateHello": "Que el canto del colibrí anuncie un nuevo amanecer.",
-		"tradeRequest": "Hermanos, hoy deponemos las armas. No por cobardía, sino porque la sabiduría de nuestros mayores nos dice, La verdadera victoria es sembrar maíz donde hubo sangre.",
+		"hateHello": "Que el canto del Sirirí anuncie un nuevo amanecer.",
+		"tradeRequest": 
+		"afterPeace": "Hermanos, hoy deponemos las armas. No por cobardía, sino porque la sabiduría de nuestros mayores nos dice, La verdadera victoria es sembrar maíz donde hubo sangre.",
 		
-		"outerColor": [43, 88, 46],
-		"innerColor": [146, 221, 10],
+		"outerColor": [14, 113, 4],
+		"innerColor": [255, 163, 71],
+		
 		"favoredReligion": "Christianity",
 		"uniques": ["[+1 Faith, +1 Culture, +1 Production] fom every  [Mountain]"],
 		"cities": ["Pasto","Tumaco","Ipiales","Nariñol","cumbal","cumbitara","Arboleda","Buensaco","Funes","Guachucal",
@@ -64,7 +66,7 @@
 			"Puerres","Olaya Herrera","Ancuya","Contadero","Maguí Payán","Roberto Payán","Iles","Pupiales","Córdoba de Nariño","Gualmatán"]
 	},
 	{
-		"name": "Gran Bolívar",
+		"name": "Gran Bolivar",
 		"leaderName": "Rafael Núñez",
 		"adjective": ["Costeño"],
 		"startBias": ["Coast"],
