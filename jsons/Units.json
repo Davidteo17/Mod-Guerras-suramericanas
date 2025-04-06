@@ -163,8 +163,13 @@
 	{
 		"name": "Khan Nestoriano",
 		"unitType": "Civilian",
-		"uniqueTo": "Gobi-Altai",
-		"replaces": "Great General",
+		"name": "Great Artist",
+		"unitType": "Civilian",
+		"uniques": [
+            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+            "Can instantly construct a [Landmark] improvement <by consuming this unit>",
+            "Great Person - [Culture]", "Unbuildable", "Uncapturable"],
+		"movement": 2
 		"uniques": [
             "Empire enters a [8]-turn Golden Age <by consuming this unit>",
             "[+15]% Strength bonus for [Military] units within [2] tiles",
@@ -172,5 +177,17 @@
             "Can instantly construct a [Citadel] improvement <by consuming this unit>",
 			"Can be earned through combat","Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"civilopediaText": {"text": "Un pueblo de las estepas liderado por su kan mismo y un ejército de sus más fieles seguidores."}
+	},
+	{
+		"name": "Gran Juglar Ballenato",
+		"name": "Great Artist",
+		"unitType": "Civilian",
+		"uniques": [
+            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+            "Can instantly construct a [Landmark] improvement <by consuming this unit>",
+            "Great Person - [Culture]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+	},
+	{
 	},
 ]
