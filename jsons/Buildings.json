@@ -40,7 +40,7 @@
 		"requiredTech": "Economics",
 		"maintenance": 2,
 		"uniques": ["[+1 Production, +1 Culture, +1 Gold] from [in this city]",
-		"civilopediaText": {"text": "Una plantacion de cafe Colombiano."},
+		"civilopediaText": {"text": "Una plantacion de cafe Colombiano."}
 	},
 	{
 		"name": "Monumento a Los Heroes",
@@ -70,7 +70,7 @@
 	},
 	{
 		"name": "Acienda Platanera",
-		"uniqueTo": ["Gran Nariño","Confederación Muisca","Gran Bolívar",],,
+		"uniqueTo": ["Gran Nariño","Confederación Muisca","Gran Bolívar"],
 		"food": 2,
 		"production": 1,
 		"specialistSlots": {"Merchant": 1},
