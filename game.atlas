@@ -25,6 +25,28 @@ NationIcons/Aliens
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Israel
+  rotate: false
+  xy: 1660, 1804
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Macrobia
+  rotate: false
+  xy: 212, 564
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Nok
+  rotate: false
+  xy: 212, 148
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Scythia
 UnitIcons/Phasers
   rotate: false
   xy: 328, 4
