@@ -11,15 +11,15 @@
 		"civilopediaText": {"text": "Los mejores orfebres del norte andino tenían orfebrerías sumamente avanzadas y productivas."}
 	},
 	{
-		"name": "Catedral Santuario nuestra señora de las lajas",
-	        "uniqueTo": "Gran Nariño",
-		"replaces": "Circus Maximus",
-		"requiredTech": "Acoustics",
-		"requiredBuilding": "Amphitheater",
+		"name": "Catedral Santuario nuestra señora de las lajas"
+		"uniqueTo": "Gran Nariño",
 		"maintenance": 2,
-		"happiness": 5,
-		"culture": 1,
-		"specialistSlots": {"Artist": 3},
+		"faith": 3,
+		"happiness": 4,
+		"isWonder": true,
+		"uniques": ["Gain a free [Temple] [in this city]", "Free [Great Prophet] appears", "Only available <when religion is enabled>"],
+		"requiredTech": "Theology",
+		"quote": "'For it soars to a height to match the sky, and as if surging up from among the other buildings it stands on high and looks down upon the remainder of the city, adorning it, because it is a part of it, but glorying in its own beauty' - Procopius, De Aedificis"
 		"civilopediaText": {"text": "El santurio es un templo y basílica para el culto católico y veneración de Nuestra Señora de Las Lajas un gran sentro de peregrinacion y una de las 7 maravillas de Colombia"}
 	},
 	{
@@ -35,9 +35,8 @@
 		"civilopediaText": {"text": "Los incas alguna vez conquistaron estas tierras, dejaron sus estructuras y su tecnología, hoy usadas en nuestro beneficio."}
 	},
 	{
-		"name": "Cafetales",
-		"uniqueTo": ["Gran Nariño","Confederación Muisca"],
-		"replaces": "Windmill",
+		"name": "Acienda Cafetera",
+		"uniqueTo": ["Gran Nariño","Confederación Muisca","Gran Bolívar"],
 		"requiredTech": "Economics",
 		"maintenance": 2,
 		"uniques": ["[+1 Production, +1 Culture, +1 Gold] from [in this city]",
@@ -45,11 +44,11 @@
 	},
 	{
 		"name": "Monumento a Los Heroes",
-		"uniqueTo": ["Gran Nariño","Confederación Muisca","Gobi-Altai"],
+		"uniqueTo": ["Gran Nariño","Confederación Muisca","Gobi-Altai","Gran Bolívar"],
 		"replaces": "Monument",
-		"cost": 40,
+		"cost": 50,
 		"hurryCostModifier": 40,
-		"culture": 2,
+		"culture": 4,
 		"uniques": ["[+1 Culture] from [Hill] tiles [in this city] <with [1] to [2] neighboring [City center] tiles>",
 			    "[+1 Science] from [Hill] tiles [in this city] <with [1] to [2] neighboring [City center] tiles> <with [1] to [6] neighboring [Mountain] tiles> <after discovering [Flight]>",
 			    "[+2 Culture] <after discovering [Dynamite]>",
@@ -58,7 +57,7 @@
 	},
 	{ 
 		"name": "Terrazas de cultivo incas",
-		"uniqueTo": ["Gran Nariño","Confederación Muisca"],
+		"uniqueTo": "Gran Nariño",
 		"replaces": "Granary",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
@@ -70,17 +69,15 @@
 		"civilopediaText": {"text": "Los incas alguna vez conquistaron estas tierras, dejaron sus estructuras y su tecnología, hoy usadas en nuestro beneficio."}
 	},
 	{
-		"name": "Platanera",
-		"uniqueTo": ["Gran Nariño","Confederación Muisca"],
-		"replaces": "Windmill",
+		"name": "Acienda Platanera",
+		"uniqueTo": ["Gran Nariño","Confederación Muisca","Gran Bolívar",],,
 		"food": 2,
 		"production": 1,
 		"specialistSlots": {"Merchant": 1},
 		"requiredTech": "Economics",
 		"uniqueTo": "Confederación Muisca",
 		"uniques": ["[25]% Food is carried over after population increases [in this city]","[+1 Production, +1 Food] from [Plantation] tiles [in this city]"],
-		"civilopediaText": {"text": "Una plantacion de cafe Colombiano."}
-
+		"civilopediaText": {"text": "Una plantacion de platano Colombiano."}
 	},
 	{
 		"name": "Castillo san felipe de barajas",
@@ -96,7 +93,7 @@
 		"requiredTech": "Chivalry"
 	},
 	{
-		"name": "base naval arc bolivar",
+		"name": "Base Naval ARC Bolivar",
 		"replaces": "Military Base"
 		"uniqueTo": "Gran Bolívar",
 		"cityStrength": 12,
@@ -110,6 +107,7 @@
 		"name": "Mercado de Hetsemani",
 		"replaces": "Market",
 		"uniqueTo": "Gran Bolívar",
+		"culture": 2,
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
@@ -132,17 +130,13 @@
 	{
 		"name": "Fortaleza Naimana",
 		"uniqueTo": ["Gobi-Altai"],
-		"replaces": "Arsenal",
-		"requiredTech": "Metallurgy",
-		"cost": 200,
-		"hurryCostModifier": -40,
-		"maintenance": 1,
+		"replaces": "Castle",
+		"cityStrength": 7,
 		"cityHealth": 25,
-		"cityStrength": 18,
-		"uniqueTo": "Confederación Muisca",
-		"uniques": [
-				"[+1 Culture] <after discovering [Combined Arms]>",
-				"Destroyed when the city is captured"],
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+		"uniques": ["+1 Gold","Destroyed when the city is captured"]
 		"civilopediaText": {"text": "Una fortaleza al estilo chino en medio de las estepas, con un almacén y una foso útil para alejar a los asaltos de caballos."}
 	},
 	{
@@ -157,17 +151,14 @@
 		"civilopediaText": {"text": "El crecimiento del imperio trajo la necesidad de una producción agrícola en las pocas tierras cultivabas de la estepa, si bien las tribus dedicadas al pastoreo se oponen, esta es la orden del gran Khan, nadie bajo el imperio pasara hambre en invierno."}
 	},
 	{
-		"name": "Plaza del carnaval",
-		"uniqueTo": "Gran Nariño",
-		"replaces": "Opera House",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"name": "Templo del Sol de Sogamoso",
+		"cost": 80,
+		"culture": 2,
+		"faith": 3,
+		"happiness": 2,
+		"uniques": ["[+1 Culture, +1 Faith] from [Wine] tiles [in this city]",
+			"[+1 Culture, +1 Faith] from [Incense] tiles [in this city]",
+			"Unbuildable", "Only available <when religion is enabled>", "Destroyed when the city is captured"]
 	},
 	{
 		
