@@ -1,27 +1,54 @@
 [
 	{
+		"name": "las milicias pardas",
+		"unitType": "Gunpowder",
+		"uniqueTo": "las milicias pardas",
+		"movement": 3,
+		"strength": 20,
+		"cost": 130,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+		"civilopediaText": {"text": "Infantería de mosquetes entrenada en tiempos de crisis, aunque su destreza y armamento son menores, su velocidad y valentía sol su mayor arma."}
+	},
+	{
+		"name": "La guardia de la ciudad amurallada",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Gran Nariño",
+		"movement": 2,
+		"strength": 28,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+		"civilopediaText": {"text": "Lo mejor de lo mejor de los fanáticos seguidores de Nuestra señora de las lajas."}
+	},
+	{
 		"name": "Levas Pastusas",
 		"unitType": "Sword",
 		"uniqueTo": "Gran Nariño",
-		"replaces": "Warrior",
+		"replaces": "Spearman",
 		"movement": 3,
-		"strength": 6,
+		"strength": 9,
 		"cost": 40,
-		"obsoleteTech": "Metal Casting",
-		"upgradesTo": "Swordsman",
-		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
-		"attackSound": "nonmetalhit",
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
 		"civilopediaText": {"text": "no estan ni entrenados, ni organizados pero les sobran hombría y experiencia."}
 	},
 	{
-		"name": "Culebrillas",
+		"name": "Cañon Culebrilla",
 		"unitType": "Siege",
-		"uniqueTo": ["Gran Nariño","Confederación Muisca"],
+		"uniqueTo":["Gran Nariño","Gran Bolívar","Confederación Muisca"],
 		"replaces": "Catapult",
 		"movement": 3,
 		"strength": 7,
 		"rangedStrength": 7,
-		"cost": 70,
+		"cost": 75,
 		"requiredTech": "Mathematics",
 		"obsoleteTech": "Physics",
 		"upgradesTo": "Trebuchet",
@@ -32,7 +59,7 @@
 	},
 	{
 		"name": "Hondero",
-		"uniqueTo": ["Gran Nariño","Confederación Muisca"],
+		"uniqueTo": ["Gran Nariño","Gran Bolívar","Confederación Muisca"],
 		"replaces": "Archer",
 		"movement": 3,
 		"strength": 4,
@@ -47,9 +74,11 @@
 	{
 		"name": "Infanteria Nariñense",
 		"unitType": "Gunpowder",
+		"uniqueTo": "Gran Nariño",
+		"replaces": "Musketman",
 		"movement": 3,
 		"strength": 22,
-		"cost": 150,
+		"cost": 140,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
@@ -59,8 +88,9 @@
 	{
 		"name": "Guaradia de las Lajas",
 		"unitType": "Gunpowder",
+		"uniqueTo": "Gran Nariño",
 		"movement": 2,
-		"strength": 27,
+		"strength": 28,
 		"cost": 150,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
@@ -71,11 +101,11 @@
 	{
 		"name": "Navío de línea",
 		"unitType": "Ranged Water",
-		"uniqueTo": "Gran Nariño",
+		"uniqueTo": ["Gran Bolívar","Gran Nariño"],
 		"movement": 5,
 		"strength": 30,
 		"rangedStrength": 35,
-		"cost": 190,
+		"cost": 195,
 		"requiredResource": "Iron",
 		"uniques": ["[+1] Sight"],
 		"requiredTech": "Navigation",
@@ -95,13 +125,13 @@
 		"strength": 8,
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
-		"promotions": ["[Jaguar] ability","Woodsman"],
+		"promotions": ["Haka War Dance"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
 	},
 	{
 		"name": "palos de trueno",
-		"unitType": "Gran Bolívar","Confederación Muisca"],
+		"unitType": ["Gran Bolívar","Confederación Muisca"],
 		"replaces": "Musketman",
 		"movement": 3,
 		"strength": 22,
@@ -172,6 +202,6 @@
             "Empire enters a [8]-turn Golden Age <by consuming this unit>",
             "Can instantly construct a [Landmark] improvement <by consuming this unit>",
             "Great Person - [Culture]", "Unbuildable", "Uncapturable"],
-		"movement": 3
+		"movement": 4
 	},
 ]
