@@ -144,27 +144,30 @@
 		"attackSound": "horse"
 		"civilopediaText": {"text": "Una clase guerrera especializada en caballería media muy preparada y experimentada."}
 	},
-	{
+	{	
 		"name": "Catafractos Naimanos",
 		"unitType": "Mounted",
-		"uniqueTo": "Gobi-Altai",
-		"movement": 4,
-		"strength": 25,
-		"cost": 185,
-		"requiredTech": "Metallurgy",
+		"uniqueTo": ""Gobi-Altai",
+		"replaces": "Horseman",
+		"movement": 3,
+		"strength": 15,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
-		"promotions": ["Formation I"],
-		"upgradesTo": "Anti-Tank Gun",
-		"obsoleteTech": "Combustion",
+		"uniques": ["Can move after attacking", "[-25]% Strength <vs cities> <when attacking>"],
+		"hurryCostModifier": 20,
 		"attackSound": "horse"
 		"civilopediaText": {"text": "Unidad de elite del Khan, pesados caballos blindados al estío Parto pero con cultura Naimana y una fuerte convicción religiosa."}
 	},
 	{
+	},
+	{
 		"name": "Khan Nestoriano",
 		"unitType": "Civilian",
-		"name": "Great Artist",
-		"unitType": "Civilian",
+		"replaces": "Khan",
+		"uniqueTo":  "Gobi-Altai",
 		"uniques": [
             "Empire enters a [8]-turn Golden Age <by consuming this unit>",
             "Can instantly construct a [Landmark] improvement <by consuming this unit>",
@@ -179,15 +182,14 @@
 		"civilopediaText": {"text": "Un pueblo de las estepas liderado por su kan mismo y un ejército de sus más fieles seguidores."}
 	},
 	{
-		"name": "Gran Juglar Ballenato",
-		"name": "Great Artist",
+		"name": "Juglar Ballenato",
 		"unitType": "Civilian",
+		"replaces": "Great Artist",
+		"uniqueTo": "Gran Bolívar",
 		"uniques": [
             "Empire enters a [8]-turn Golden Age <by consuming this unit>",
             "Can instantly construct a [Landmark] improvement <by consuming this unit>",
             "Great Person - [Culture]", "Unbuildable", "Uncapturable"],
-		"movement": 2
-	},
-	{
+		"movement": 3
 	},
 ]
