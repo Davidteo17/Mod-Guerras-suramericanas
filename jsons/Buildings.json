@@ -39,7 +39,7 @@
 		"uniqueTo": ["Gran Nariño","Confederación Muisca","Gran Bolívar"],
 		"requiredTech": "Economics",
 		"maintenance": 2,
-		"uniques": ["[+1 Production, +1 Culture, +1 Gold] from [in this city]",
+		"uniques": ["[+1 Production, +1 Culture, +1 Gold] from [in this city]"
 		"civilopediaText": {"text": "Una plantacion de cafe Colombiano."}
 	},
 	{
