@@ -1,5 +1,6 @@
 [
 	{
+		//nations
 		"name": "Confederación Muisca",
 		"leaderName": "Saquesazipa Cacique muisca",
 		"adjective": ["Muiscas y Tolimas"],
@@ -53,12 +54,12 @@
 		
 		"neutralHello": "Desde las alturas del volcán Galeras, donde el cielo besa la tierra, hasta las playas doradas de Tumaco, donde el mar susurra historias ancestrales, les saludo con el corazón lleno de orgullo.",
 		"hateHello": "Que el canto del Sirirí anuncie un nuevo amanecer.",
-		"tradeRequest": 
+		
+		"tradeRequest": "Que las puertas de los mercados se habrán, !hoy abra comercio¡",
 		"afterPeace": "Hermanos, hoy deponemos las armas. No por cobardía, sino porque la sabiduría de nuestros mayores nos dice, La verdadera victoria es sembrar maíz donde hubo sangre.",
 		
 		"outerColor": [14, 113, 4],
 		"innerColor": [255, 163, 71],
-		
 		"favoredReligion": "Christianity",
 		"uniques": ["[+1 Faith, +1 Culture, +1 Production] fom every  [Mountain]"],
 		"cities": ["Pasto","Tumaco","Ipiales","Nariñol","cumbal","cumbitara","Arboleda","Buensaco","Funes","Guachucal",
@@ -66,56 +67,63 @@
 			"Puerres","Olaya Herrera","Ancuya","Contadero","Maguí Payán","Roberto Payán","Iles","Pupiales","Córdoba de Nariño","Gualmatán"]
 	},
 	{
-		"name": "Gran Bolivar",
+		"name": "Gran Bolívar",
 		"leaderName": "Rafael Núñez",
 		"adjective": ["Costeño"],
 		"startBias": ["Coast"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "Hoy me paro frente a ustedes no solo como un hijo del Caribe, sino como un orgulloso bolivarense, forjado en la brisa de Cartagena, en el sol ardiente que cae sobre los Montes de María, y en la dulzura de un sancocho hecho con leña y con amor, Hoy no hablamos desde la nostalgia, sino desde el orgullo. Desde la piedra viva de nuestras murallas, desde las calles y los ríos que todavía sudan historia, y desde cada palmo de esta tierra que ha demostrado que ni el poder más grande puede someter a un pueblo decidido a ser libre, caerán las murallas pero nunca morirá el espíritu de la costa",
-		"startIntroPart2": "-------------------------",
+		"startIntroPart1": "Hoy me paro frente a ustedes no solo como un hijo del Caribe, sino como un orgulloso bolivarense, forjado en la brisa de Cartagena, Hoy no hablamos desde la nostalgia, sino desde el orgullo. Desde la piedra viva de nuestras murallas, desde las calles y los ríos que todavía sudan historia, y desde cada palmo de esta tierra que ha demostrado que ni el poder más grande puede someter a un pueblo decidido a ser libre",
+		"startIntroPart2": "Caerán las murallas pero nunca morirá el espíritu de la costa",
 		
 		"declaringWar": "Así como Blas de Lezo defendió estas murallas con media vida, así como nuestros ancestros africanos resistieron el látigo y vencieron el olvido, nosotros también estamos listos para pelear. Y si hemos de ir al combate, lo haremos con machete en mano y el pecho abierto, sin miedo..",
 		"attacked": "No buscamos guerra, pero si la guerra viene, ¡que nos encuentre preparados y de pie!.",
-		"defeated": "El sol cae hoy con la muerte a sus pies, maldito, maldito que la sal seque tu cuerpo y que el sol queme tu piel, que dios castigue a los tiranos donde nosotros no hemos podido, morimos con honor.",
-		
+		"defeated": "El sol cae hoy con la muerte a sus pies, maldito, maldito que la sal seque tu cuerpo y que el sol queme tu piel, que dios castigue a los tiranos donde nosotros no hemos podido.",
 		"introduction": "Reciban un saludo lleno de alegría, hospitalidad y firme compromiso desde el corazón del Caribe colombiano: el glorioso departamento de Bolívar.",
-		"neutralHello": "Hola compadre!",
-		"hateHello": "hola",
-		"tradeRequest": "LAquí no solo abrimos nuestras puertas, abrimos el corazón y el compromiso de un pueblo que quiere crecer con el mundo.",
-
-        "outerColor": [245,248,185],
-        "innerColor": [18,84,30],
+		
+		"neutralHello": "Hola Parcero!",
+		"hateHello": "hola Extrangero",
+		
+		"tradeRequest": "Auí no solo abrimos nuestras puertas, abrimos el corazón y el compromiso de un pueblo que quiere crecer con el mundo.",
+		"afterPeace": "Hoy declaramos la paz, que las espadas sean cambiadas por arados por el bien del pueblo.", 
+		
+		"outerColor": [18, 66, 22],
+		"innerColor": [255, 56, 56],
 
 		"favoredReligion": "Christianity",
-		"uniques": ["[-66]% maintenance costs <for [Water] units>",
-			"When defeating a [{Barbarian} {Water}] unit, earn [25] Gold and recruit it <with [50]% chance>"],
+		"uniques": ["[+1] Movement <for [Embarked] units>", "[1] Movement point cost to disembark <for [All] units>",
+			"No movement cost to pillage <for [Melee] units>"],
 		"cities": ["Cartagena de Indias","Magangué","El Carmen de Bolívar","Turbaco","Arjona","San Juan Nepomuceno","Santa Rosa del Sur","San Jacinto","Mompox","Morales","Arenal",
 			"Cicuco","Mahates","Hatillo de Loba","Simití","Turbana","María La Baja","Calamar","San Estanislao de Kostka","Cantagallo","Arroyohondo","Talaigua Nuevo","Córdova de Bolívar","Pinillos"],
 	},
 	{
 		"name": "Gobi-Altai",
-		"leaderName": "Gran Casique Kurchakus",
+		"leaderName": "Kan kurchakus",
 		"adjective": ["Naimanos y Keraitas"],
 		"startBias": ["Plains"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Que el Viento Blanco de las Estepas lleve mi voz hasta tu ger sagrado, donde el humo del incienso nestoriano se eleva junto al canto de los chamanes. Yo soy kurchakus, señor de los Tres Ríos de Hierro, cristiano bajo la Cruz pero jinete bajo el Tengri eterno.",
-		"startIntroPart2": "Por el poder de la lanza que unificó a las tribus, por la luz de la Estrella de Oriente que guió a los magos y por el sagrado Sudario que los nestorianos llevamos en los altares portátiles, te saludo con leche de yegua y pan de la Última Cena!",
+		"startIntroPart2": "Por el poder de la lanza que unificó a las tribus, por la luz de la Estrella de Oriente que guió a los magos y por el sagrado Sudario que los nestorianos llevamos en los altares portátiles, Hoy declaro, !Mongolia se unirá bajo el dios verdadero¡",
+		
 		"declaringWar": "Por el poder del Tengri que ruge en los cielos y por la Cruz de Cristo que brilla en mi estandarte, declaro que los cascos de mis jinetes oscurecerán el sol sobre tus tierra.",
 		"attacked": "Si no rindes tus armas ante el Sulde sagrado, que los lobos encuentren huesos para roer donde una vez estuvo tu pueblo.",
-		"defeated": "No es posible, los ciervos de satanas triunfaron hoy pero las hordas Naimanas regresaran para traerte el juicio final.",
-		"introduction": "Que los vientos sagrados de la sabiduría ancestral soplen a tu favor y que el fuego de los antepasados ilumine tu camino. Bajo la sombra del gran árbol cósmico, donde las raíces beben de la memoria de la tierra y las ramas acarician los secretos del cielo, te saludo con honra y reverencia.",
+		"defeated": "No es posible, los ciervos de satanas triunfaron hoy pero las hordas Naimanas y Keraitas regresaran para traerte el juicio final.",
+		"introduction": "Que los vientos sagrados de la sabiduría ancestral soplen a tu favor, Bajo la sombra del gran árbol cósmico, donde las raíces beben de la memoria de la tierra y las ramas acarician los secretos del cielo, te saludo con honra y reverencia.",
 		
 		"neutralHello": "Hola hermano de las estpas!",
 		"hateHello": "Es un Kitan No conose el honor!",
-		"tradeRequest": "Que el Viento Blanco lleve esta ofrenda de paz",
+
+		"tradeRequest": "Que la gran ruta de la ceda se habrá y que el comercio fluya tal como antaño.",
+		"afterPeace": "Que el Viento Blanco lleve esta ofrenda de paz",
 		
-		"outerColor": [14, 113, 4],
-		"innerColor": [255, 163, 71],
+
+		"outerColor": [255,184,33],
+		"innerColor": [3,115,86],
+		
 		"favoredReligion": "Christianity",
 		"uniqueName": "La cruz de las Estepas",
 		"uniques": ["[+30]% Strength <vs [City-States]>", "[+1] Movement <for [Mounted] units>"],
 		"cities": ["Tseel","Sharga","Nutsgen Uul","Uvs Nurur","Atirag","Khar Us","Tsa Baarau","Bombogorr","Tarvagatai","Uliastai","Sharga",
-			"Tsambagarau","Toukhon","Ongi","Nazaret de Altai","Antioquia de Altai","Tarso de Altai","Naimanapolis","Keriapois","Nestoria","Paso de la Cruz",]
+			"Tsambagarau","Toukhon","Ongi","Nazaret de Altai","Antioquia de Altai","Nicea de Altai","Nicea de Altai","Valle de Nestor","Naimanapolis","Keriapois","Nestoria","Paso de la Cruz",]
 	},
