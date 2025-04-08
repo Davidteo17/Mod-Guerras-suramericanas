@@ -117,7 +117,6 @@
 		"tradeRequest": "Que la gran ruta de la ceda se habrá y que el comercio fluya tal como antaño.",
 		"afterPeace": "Que el Viento Blanco lleve esta ofrenda de paz",
 		
-
 		"outerColor": [255,184,33],
 		"innerColor": [3,115,86],
 		
@@ -126,4 +125,33 @@
 		"uniques": ["[+30]% Strength <vs [City-States]>", "[+1] Movement <for [Mounted] units>"],
 		"cities": ["Tseel","Sharga","Nutsgen Uul","Uvs Nurur","Atirag","Khar Us","Tsa Baarau","Bombogorr","Tarvagatai","Uliastai","Sharga",
 			"Tsambagarau","Toukhon","Ongi","Nazaret de Altai","Antioquia de Altai","Nicea de Altai","Nicea de Altai","Valle de Nestor","Naimanapolis","Keriapois","Nestoria","Paso de la Cruz",]
+	},
+	{
+		"name": "Nueva Caledonia del Darién",
+		"leaderName": " William Paterson",
+		"adjective": ["Neo Escoceses"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "o.",
+		"startIntroPart2": "o.",
+		
+		"declaringWar": "o.",
+		"attacked": "o.",
+		"defeated": "o.",
+		"introduction": "o.",
+		
+		"neutralHello": "o",
+		"hateHello": "o",
+
+		"tradeRequest": "o.",
+		"afterPeace": "o.",
+		
+		"outerColor": [255,184,33],
+		"innerColor": [3,115,86],
+		
+		"favoredReligion": "Christianity",
+		"uniqueName": "o.",
+		"uniques": ["Retain [20]% of the happiness from a luxury after the last copy has been traded away","[+1] Movement <for [Water] units>"]
+		"cities": ["Nueva Caledonia","Nueva Edinburgo","Fuerte Andrew","Francis Borland","Puerto Escoses","Puerto Guilermo","Nueva Lennoxburgh","Pherthunua","Elgin del Darien","Aberdeen del Darien","Dundee del Darien","Sj jhonston del Darien","Livingstone","Rosyth","TropicNeest",]
 	},
