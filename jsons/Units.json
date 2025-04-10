@@ -2,7 +2,7 @@
 	{
 		"name": "las milicias pardas",
 		"unitType": "Gunpowder",
-		"uniqueTo": "las milicias pardas",
+		"uniqueTo": "Gran Bolívar",
 		"movement": 3,
 		"strength": 20,
 		"cost": 130,
@@ -43,7 +43,7 @@
 	{
 		"name": "Cañon Culebrilla",
 		"unitType": "Siege",
-		"uniqueTo":["Gran Nariño","Gran Bolívar","Confederación Muisca"],
+		"uniqueTo":["Gran Nariño","Gran Bolívar","Confederación Muisca","Gran Santander"],
 		"replaces": "Catapult",
 		"movement": 3,
 		"strength": 7,
@@ -59,7 +59,7 @@
 	},
 	{
 		"name": "Hondero",
-		"uniqueTo": ["Gran Nariño","Gran Bolívar","Confederación Muisca"],
+		"uniqueTo": ["Gran Nariño","Gran Bolívar","Confederación Muisca","Gran Santander"],
 		"replaces": "Archer",
 		"movement": 3,
 		"strength": 4,
@@ -98,6 +98,49 @@
 		"attackSound": "shot"
 		"civilopediaText": {"text": "Lo mejor de lo mejor de los fanáticos seguidores de Nuestra señora de las lajas."}
 	},
+	{n
+		"name": "Los Heroicos del pantano de Vargas",
+		"unitType": "Mounted",
+		"uniqueTo": "Gran Santander"],
+		"movement": 4,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Horses",
+		"uniques": ["[+1] Sight"],
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
+	},
+	{
+		"name": "La guardia de Bucaramanga",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Gran Santander"],
+		"movement": 2,
+		"strength": 25,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"uniques": ["[+1] Sight", "Can build [Fort] improvements on tiles"],
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+		},
+	{
+		"name": "Cañones del Socorro",
+		"unitType": "Siege",
+		"uniqueTo": "Gran Santander"],
+		"movement": 3,
+		"strength": 14,
+		"rangedStrength": 18,
+		"cost": 180,
+		"requiredTech": "Chemistry",
+		"upgradesTo": "Artillery",
+		"obsoleteTech": "Dynamite",
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Must set up to ranged attack","[-1] Sight","Never appears as a Barbarian unit"],
+		"attackSound": "cannon"
+	},
 	{
 		"name": "Navío de línea",
 		"unitType": "Ranged Water",
@@ -131,7 +174,7 @@
 	},
 	{
 		"name": "palos de trueno",
-		"unitType": ["Gran Bolívar","Confederación Muisca"],
+		"unitType": ["Gran Bolívar","Confederación Muisca","Gran Santander"],
 		"replaces": "Musketman",
 		"movement": 3,
 		"strength": 22,
