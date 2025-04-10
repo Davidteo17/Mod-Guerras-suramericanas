@@ -98,10 +98,10 @@
 		"attackSound": "shot"
 		"civilopediaText": {"text": "Lo mejor de lo mejor de los fanáticos seguidores de Nuestra señora de las lajas."}
 	},
-	{n
+	{
 		"name": "Los Heroicos del pantano de Vargas",
 		"unitType": "Mounted",
-		"uniqueTo": "Gran Santander"],
+		"uniqueTo": "Gran Santander",
 		"movement": 4,
 		"strength": 14,
 		"cost": 75,
@@ -117,7 +117,7 @@
 	{
 		"name": "La guardia de Bucaramanga",
 		"unitType": "Gunpowder",
-		"uniqueTo": "Gran Santander"],
+		"uniqueTo": "Gran Santander",
 		"movement": 2,
 		"strength": 25,
 		"cost": 150,
@@ -126,11 +126,11 @@
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
-		},
+	},
 	{
 		"name": "Cañones del Socorro",
 		"unitType": "Siege",
-		"uniqueTo": "Gran Santander"],
+		"uniqueTo": "Gran Santander",
 		"movement": 3,
 		"strength": 14,
 		"rangedStrength": 18,
