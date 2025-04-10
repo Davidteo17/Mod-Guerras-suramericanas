@@ -97,6 +97,34 @@
 			"Cicuco","Mahates","Hatillo de Loba","Simití","Turbana","María La Baja","Calamar","San Estanislao de Kostka","Cantagallo","Arroyohondo","Talaigua Nuevo","Córdova de Bolívar","Pinillos"],
 	},
 	{
+		"name": "Gran Santander",
+		"leaderName": "Francisco de Paula Santander",
+		"adjective": ["Santandereano"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "o",
+		"startIntroPart2": "o",
+		
+		"declaringWar": "o.",
+		"attacked": "o.",
+		"defeated": "o.",
+		"introduction": "o.",
+		
+		"neutralHello": "o!",
+		"hateHello": "o",
+		
+		"tradeRequest": "o.",
+		"afterPeace": "o.", 
+		
+		"outerColor": [245, 230, 55],
+		"innerColor": [177, 8, 3],
+
+		"favoredReligion": "Christianity",
+		"uniques": ["[+10]% Strength <when fighting units from a Civilization with more Cities than you>"],
+		"cities": ["Bucaramanga","Cúcuta","Ocaña","Pamplona","Floridablanca","Girón","Piedecuesta","Barrancabermeja","San Gil","Socorro","Barichara","Villa del Rosario","Los Patios","Tibú","Chinácota","Cimitarra","Charala","Simacota","Sangil","Zpatoca","Lebrija","Matanza"],
+	},
+	{
 		"name": "Gobi-Altai",
 		"leaderName": "Khan kurchakus",
 		"adjective": ["Naimanos y Keraitas"],
