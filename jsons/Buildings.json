@@ -162,7 +162,7 @@
 	},
 	{
 		"name": "Avicola kikes",
-		"uniqueTo": ["Gobi-Altai"],
+		"uniqueTo": "Gran Santander",
 		"food": 2,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
@@ -172,7 +172,7 @@
 	},
 	{
 		"name": "Mamposteria de Barichara",
-		"uniqueTo": ["Gobi-Altai"],
+		"uniqueTo": "Gran Santander",
 		"happiness": 2,
 		"production": 1,
 		"requiredNearbyImprovedResources": ["Marble", "Stone"],
