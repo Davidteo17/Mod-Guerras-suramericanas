@@ -4,49 +4,71 @@ size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Breeders
+BuildingIcons/Orfebreria Muisca
   rotate: false
   xy: 112, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Holodeck
+BuildingIcons/Pukara Usurpado
   rotate: false
   xy: 220, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Aliens
+BuildingIcons/Hacienda Cafetera
+  rotate: false
+  xy: 119, 5
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Holodeck
+  rotate: false
+  xy: 227, 7
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+NationIcons/Gobi-Altai
   rotate: false
   xy: 4, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Israel
+NationIcons/Gran Santander
   rotate: false
   xy: 1660, 1804
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-NationIcons/Macrobia
+NationIcons/Gran Bolívar
   rotate: false
   xy: 212, 564
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-NationIcons/Nok
+NationIcons/Gran Nariño
   rotate: false
-  xy: 212, 148
+  xy: 227, 567
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-NationIcons/Scythia
+NationIcons/Nueva Caledonia del Darién
+  rotate: false
+  xy: 219, 149
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Confederación Muisca
 UnitIcons/Phasers
   rotate: false
   xy: 328, 4
