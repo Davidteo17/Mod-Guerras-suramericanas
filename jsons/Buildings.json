@@ -36,7 +36,7 @@
 	},
 	{
 		"name": "Acienda Cafetera",
-		"uniqueTo": ["Gran Nariño","Confederación Muisca","Gran Bolívar"],
+		"uniqueTo": ["Gran Nariño","Confederación Muisca","Gran Bolívar","Gran Santander"],
 		"requiredTech": "Economics",
 		"maintenance": 2,
 		"uniques": "[+1 Production, +1 Culture, +1 Gold] from [in this city]"
@@ -44,7 +44,7 @@
 	},
 	{
 		"name": "Monumento a Los Heroes",
-		"uniqueTo": ["Gran Nariño","Confederación Muisca","Gobi-Altai","Gran Bolívar"],
+		"uniqueTo": ["Gran Nariño","Confederación Muisca","Gobi-Altai","Gran Bolívar","Gran Santander"],
 		"replaces": "Monument",
 		"cost": 50,
 		"hurryCostModifier": 40,
@@ -70,7 +70,7 @@
 	},
 	{
 		"name": "Acienda Platanera",
-		"uniqueTo": ["Gran Nariño","Confederación Muisca","Gran Bolívar"],
+		"uniqueTo": ["Gran Nariño","Confederación Muisca","Gran Bolívar","Gran Santander",]
 		"food": 2,
 		"production": 1,
 		"specialistSlots": {"Merchant": 1},
@@ -118,7 +118,6 @@
 	},
 	{
 		"name": "Murallas de cartagena",
-		"replaces": "Walls",
 		"cost": 65,
 		"uniqueTo": "Gran Bolívar",
 		"cityStrength": 6,
@@ -152,6 +151,7 @@
 	},
 	{
 		"name": "Templo del Sol de Sogamoso",
+		"uniqueTo": "Confederación Muisca",
 		"cost": 80,
 		"culture": 2,
 		"faith": 3,
@@ -171,7 +171,7 @@
 		"requiredTech": "Pottery"
 	},
 	{
-		"name": "Mamposteria de Barichara",
+		"name": "Manposteria de Barichara",
 		"uniqueTo": "Gran Santander",
 		"happiness": 2,
 		"production": 1,
@@ -179,7 +179,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 0,
 		"uniques": ["Must not be on [Plains]",
-			"[+1 Production] from [Stone] tiles [in this city]",
+			"[+2 Production] from [Stone] tiles [in this city]",
 			"[+1 Production] from [Marble] tiles [in this city]"],
 		"requiredTech": "Calendar"
 	},	
