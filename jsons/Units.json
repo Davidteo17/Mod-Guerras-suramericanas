@@ -2,7 +2,7 @@
 	{
 		"name": "las milicias pardas",
 		"unitType": "Gunpowder",
-		"uniqueTo": "Gran Bolívar",
+		"uniqueTo": ["Gran Nariño","Gran Bolívar"],
 		"movement": 3,
 		"strength": 20,
 		"cost": 130,
@@ -107,7 +107,7 @@
 		"cost": 75,
 		"requiredTech": "Horseback Riding",
 		"requiredResource": "Horses",
-		"uniques": ["[+1] Sight"],
+		"uniques": ["[+2] Sight"],
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
