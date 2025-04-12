@@ -115,19 +115,6 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "La guardia de Bucaramanga",
-		"unitType": "Gunpowder",
-		"uniqueTo": "Gran Santander",
-		"movement": 2,
-		"strength": 25,
-		"cost": 150,
-		"requiredTech": "Gunpowder",
-		"uniques": ["[+1] Sight", "Can build [Fort] improvements on tiles"],
-		"upgradesTo": "Rifleman",
-		"obsoleteTech": "Rifling",
-		"attackSound": "shot"
-	},
-	{
 		"name": "Cañones del Socorro",
 		"unitType": "Siege",
 		"uniqueTo": "Gran Santander",
