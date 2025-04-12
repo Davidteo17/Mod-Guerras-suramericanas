@@ -35,7 +35,7 @@
 		"civilopediaText": {"text": "Los incas alguna vez conquistaron estas tierras, dejaron sus estructuras y su tecnología, hoy usadas en nuestro beneficio."}
 	},
 	{
-		"name": "Acienda Cafetera",
+		"name": "Hacienda Cafetera",
 		"uniqueTo": ["Gran Nariño","Confederación Muisca","Gran Bolívar","Gran Santander"],
 		"requiredTech": "Economics",
 		"maintenance": 2,
