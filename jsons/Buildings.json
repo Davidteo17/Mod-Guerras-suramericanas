@@ -8,7 +8,7 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Iron Working",
 		"uniques": "[+1 Production, +1 Culture, +3 Gold]",
-		"civilopediaText": {"text": "Los mejores orfebres del norte andino tenían orfebrerías sumamente avanzadas y productivas."}
+		"civilopediaText": {"text": "Los mejores artesanos del norte andino tenían orfebrerías sumamente avanzadas y productivas."}
 	},
 	{
 		"name": "Catedral nuestra señora de las lajas"
@@ -25,11 +25,11 @@
 	{
 		"name": "Pukara Usurpado",
 		"uniqueTo": "Gran Nariño",
+		"cityHealth": 10,
 		"food": 3,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
-			"[+1 Food] from [Bananas] tiles [in this city]",
 			"[+1 Food] from [Wheat] tiles [in this city]"],
 		"requiredTech": "Pottery"
 		"civilopediaText": {"text": "Los incas alguna vez conquistaron estas tierras, dejaron sus estructuras y su tecnología, hoy usadas en nuestro beneficio."}
@@ -58,7 +58,6 @@
 	{ 
 		"name": "Terrazas de cultivo incas",
 		"uniqueTo": "Gran Nariño",
-		"replaces": "Granary",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
