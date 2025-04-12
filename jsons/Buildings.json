@@ -11,7 +11,7 @@
 		"civilopediaText": {"text": "Los mejores orfebres del norte andino tenían orfebrerías sumamente avanzadas y productivas."}
 	},
 	{
-		"name": "Catedral Santuario nuestra señora de las lajas"
+		"name": "Catedral nuestra señora de las lajas"
 		"uniqueTo": "Gran Nariño",
 		"maintenance": 2,
 		"faith": 3,
@@ -23,7 +23,7 @@
 		"civilopediaText": {"text": "El santurio es un templo y basílica para el culto católico y veneración de Nuestra Señora de Las Lajas un gran sentro de peregrinacion y una de las 7 maravillas de Colombia"}
 	},
 	{
-		"name": "Pukara usurpado",
+		"name": "Pukara Usurpado",
 		"uniqueTo": "Gran Nariño",
 		"food": 3,
 		"maintenance": 1,
